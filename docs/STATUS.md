@@ -1,5 +1,33 @@
 # Publication status
 
+## Cloudflare primary hosting — October 21, 2026
+
+Primary website: <https://ddcnorth.com/>. Cloudflare Pages project
+`ddcnorth-website` connects directly to <https://github.com/ddcnorth/website>.
+The production branch is `main`; other branches produce preview deployments.
+The build command is `sh scripts/build.sh`, with output directory `_site`.
+
+Initial Cloudflare deployment `d94d3a8e-a172-42d3-a820-6fb123fc2626` succeeded
+for source commit `2445d7b3321f17f8b278458058d72adf54edf587`. Its public HTML,
+three assets, and both font licenses matched the build byte-for-byte. Missing
+paths and repository documentation returned HTTP 404.
+
+Vercel remains the domain registrar. DNS now uses
+`andronicus.ns.cloudflare.com` and `reza.ns.cloudflare.com` in Cloudflare zone
+`693d6db450e026fc01b4f5829efe50f4`. Both the apex and `www` point to
+`ddcnorth-website.pages.dev`. The pre-existing Microsoft verification MX/TXT
+and three CAA records were preserved. HTTPS redirects are enabled.
+
+Cloudflare's GitHub App is restricted to this repository. No Cloudflare token
+is stored in the repository or GitHub Actions secrets. The existing GitHub Pages
+workflow remains as a secondary deployment and uses the same build script.
+
+Website content and styles are preserved. Hosting changes update `og:url`, add
+the canonical domain, and provide a small 404 page. The earlier source-integrity
+reports below describe the original GitHub Pages import before these changes.
+
+## Earlier GitHub Pages publication
+
 The website is deployed at <https://ddcnorth.github.io/website/> from source commit `eeb5497b7ccd04d201873ab95cb1b42c1ebd2b21`, pushed to `main` in <https://github.com/ddcnorth/website>.
 
 GitHub Actions [run 39674617078](https://github.com/ddcnorth/website/actions/runs/39674617078) and deployment `7237113808` succeeded for that exact source commit. Repository visibility is public, Pages uses the workflow publishing source, and HTTPS is enforced. Future pushes affecting website files trigger deployment; documentation-only updates do not.
