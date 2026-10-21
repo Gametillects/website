@@ -1,0 +1,45 @@
+{
+  "status": "passed",
+  "allowed_changes": [
+    "index.html og:url",
+    "index.html line 28 trailing whitespace",
+    "licenses/SpaceMono-OFL.txt line 21 trailing whitespace"
+  ],
+  "files": [
+    {
+      "file": "README.txt",
+      "matches_expected": true,
+      "sha256": "166389d5548f7f4cc8881148a09307c10fe0e431cd848b90092b69411210dda7"
+    },
+    {
+      "file": "assets/footer.css",
+      "matches_expected": true,
+      "sha256": "d5bfb3b42154590ce4c8e75275961cce4f3068d04e54b90b830569559e5037fb"
+    },
+    {
+      "file": "assets/header.css",
+      "matches_expected": true,
+      "sha256": "7971cf52eb6f57c52082950abc0c73d8852254d0517d5fa4c818b89e07e496aa"
+    },
+    {
+      "file": "assets/header.js",
+      "matches_expected": true,
+      "sha256": "875faab0f17c77e3fd5b625b3b96cba3415fb13405f4e1bc94ff7df7ab8c1fe9"
+    },
+    {
+      "file": "index.html",
+      "matches_expected": true,
+      "sha256": "b678b6730c5ab28e784cf1af9e38790a21ade475e921f87e47c6f0cd8a439d54"
+    },
+    {
+      "file": "licenses/Inter-OFL.txt",
+      "matches_expected": true,
+      "sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a"
+    },
+    {
+      "file": "licenses/SpaceMono-OFL.txt",
+      "matches_expected": true,
+      "sha256": "6758f6915b482dd45950b2a974c75d95692464fd0e5441418e87b2f92f2eea27"
+    }
+  ]
+}

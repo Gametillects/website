@@ -1,0 +1,8 @@
+# Publication traceability
+
+| Requirement ID | Source | Mandatory | Milestone | Acceptance criterion | Implementation evidence | Test evidence | Verification command | Status |
+|---|---|---:|---|---|---|---|---|---|
+| DEP-001 | User request; docs/PLANS.md M1 | Yes | M1 | Supplied site and licenses preserved; assets, fragments, and browser behavior pass | All seven ZIP files imported; og:url and two original trailing spaces cleaned | docs/validation/local.json: 19 checks passed; docs/validation/source-integrity.json confirms final files | Archive byte comparison; node --check; desktop/mobile procedures in docs/STATUS.md | VERIFIED |
+| DEP-002 | User request; docs/PLANS.md M1 | Yes | M1 | Commit pushed to ddcnorth/website main and remote SHA matches | Remote confirmed; source prepared | Awaiting precommit audit and push | git rev-parse HEAD; git ls-remote origin refs/heads/main; git status --short | IN PROGRESS |
+| DEP-003 | User request; docs/PLANS.md M2 | Yes | M2 | Successful deployment of intended source, public page/assets match and interactions pass | Public repo authorized and configured; Pages enabled; deployment workflow prepared | Pages API confirms workflow source, public URL, enforced HTTPS | GitHub deployment API; HTTPS content comparison; browser assertions | IN PROGRESS |
+| PROCESS-001 | /Users/amiretminanrad/AGENTS.md | Yes | M1/M2 | Readiness, precommit, milestone, and final independent audits pass | Plan and traceability maintained | Readiness re-audit and revised hosting readiness PASS; completion audits pending | Read docs/STATUS.md and independent audit reports | IN PROGRESS |

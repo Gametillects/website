@@ -1,0 +1,218 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "name": "archive_integrity",
+      "detail": [
+        {
+          "file": "README.txt",
+          "unchanged": true,
+          "allowed_url_update": false,
+          "sha256": "166389d5548f7f4cc8881148a09307c10fe0e431cd848b90092b69411210dda7"
+        },
+        {
+          "file": "assets/footer.css",
+          "unchanged": true,
+          "allowed_url_update": false,
+          "sha256": "d5bfb3b42154590ce4c8e75275961cce4f3068d04e54b90b830569559e5037fb"
+        },
+        {
+          "file": "assets/header.css",
+          "unchanged": true,
+          "allowed_url_update": false,
+          "sha256": "7971cf52eb6f57c52082950abc0c73d8852254d0517d5fa4c818b89e07e496aa"
+        },
+        {
+          "file": "assets/header.js",
+          "unchanged": true,
+          "allowed_url_update": false,
+          "sha256": "875faab0f17c77e3fd5b625b3b96cba3415fb13405f4e1bc94ff7df7ab8c1fe9"
+        },
+        {
+          "file": "index.html",
+          "unchanged": false,
+          "allowed_url_update": true,
+          "sha256": "a820d3dce1c01237ebdaffd8d7a35a5b54ff07764bd41de5712d3bfff8cc6f72"
+        },
+        {
+          "file": "licenses/Inter-OFL.txt",
+          "unchanged": true,
+          "allowed_url_update": false,
+          "sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a"
+        },
+        {
+          "file": "licenses/SpaceMono-OFL.txt",
+          "unchanged": true,
+          "allowed_url_update": false,
+          "sha256": "8e4ee42b2553e1e01504e61cb0d46d148cd8c9e5eacaa3622a7df2d4f2955b9f"
+        }
+      ]
+    },
+    {
+      "name": "javascript_node_syntax",
+      "detail": {
+        "inline": 1
+      }
+    },
+    {
+      "name": "fragment_targets",
+      "detail": [
+        {
+          "href": "#main",
+          "exists": true
+        },
+        {
+          "href": "#top",
+          "exists": true
+        },
+        {
+          "href": "#about",
+          "exists": true
+        },
+        {
+          "href": "#contact",
+          "exists": true
+        },
+        {
+          "href": "#service-planning",
+          "exists": true
+        },
+        {
+          "href": "#service-data",
+          "exists": true
+        },
+        {
+          "href": "#service-digital",
+          "exists": true
+        },
+        {
+          "href": "#services",
+          "exists": true
+        },
+        {
+          "href": "#approach",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "name": "local_assets",
+      "detail": [
+        "assets/header.css",
+        "assets/footer.css",
+        "assets/header.js"
+      ]
+    },
+    {
+      "name": "mailto_links",
+      "detail": [
+        "mailto:Fryderyk@ddcnorth.com?subject=Let%E2%80%99s%20talk%20about%20a%20project",
+        "mailto:Fryderyk@ddcnorth.com"
+      ]
+    },
+    {
+      "name": "desktop_no_horizontal_overflow",
+      "detail": {
+        "viewport": 1440,
+        "document": 1440,
+        "body": 1440
+      }
+    },
+    {
+      "name": "search_match",
+      "detail": true
+    },
+    {
+      "name": "search_no_match",
+      "detail": true
+    },
+    {
+      "name": "search_empty",
+      "detail": true
+    },
+    {
+      "name": "search_escape",
+      "detail": true
+    },
+    {
+      "name": "search_submit_opens_target",
+      "detail": true
+    },
+    {
+      "name": "services_toggle_escape",
+      "detail": true
+    },
+    {
+      "name": "services_navigation_opens_target",
+      "detail": true
+    },
+    {
+      "name": "accordion_single_open",
+      "detail": true
+    },
+    {
+      "name": "mobile_no_horizontal_overflow",
+      "detail": {
+        "viewport": 390,
+        "document": 390,
+        "body": 390
+      }
+    },
+    {
+      "name": "mobile_menu_no_horizontal_overflow",
+      "detail": {
+        "viewport": 390,
+        "document": 390,
+        "body": 390
+      }
+    },
+    {
+      "name": "mobile_navigation_open_link_close",
+      "detail": true
+    },
+    {
+      "name": "mobile_navigation_escape",
+      "detail": true
+    },
+    {
+      "name": "no_browser_console_or_network_errors",
+      "detail": true
+    }
+  ],
+  "errors": [],
+  "requests": [
+    {
+      "url": "http://127.0.0.1:51047/website/",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:51047/website/assets/header.css",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:51047/website/assets/footer.css",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:51047/website/assets/header.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:51047/website/",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:51047/website/assets/header.css",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:51047/website/assets/footer.css",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:51047/website/assets/header.js",
+      "status": 200
+    }
+  ],
+  "baseURL": "http://127.0.0.1:51047/website/"
+}
