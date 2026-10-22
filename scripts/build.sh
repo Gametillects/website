@@ -6,5 +6,5 @@ cd "$(dirname "$0")/.."
 rm -rf _site
 mkdir _site
 cp index.html 404.html _site/
-cp -R assets licenses _site/
+cp -R services approach about assets licenses _site/
 touch _site/.nojekyll

@@ -1,0 +1,124 @@
+{
+  "status": "passed",
+  "pages": [
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderBottom": "1px",
+      "borderRadius": "0px",
+      "borderTop": "0px",
+      "buttonHeight": 44,
+      "inputHeight": 44,
+      "label": "Search DDCNorth",
+      "noOverflow": true,
+      "path": "/"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderBottom": "1px",
+      "borderRadius": "0px",
+      "borderTop": "0px",
+      "buttonHeight": 44,
+      "inputHeight": 44,
+      "label": "Search DDCNorth",
+      "noOverflow": true,
+      "path": "/services/"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderBottom": "1px",
+      "borderRadius": "0px",
+      "borderTop": "0px",
+      "buttonHeight": 44,
+      "inputHeight": 44,
+      "label": "Search DDCNorth",
+      "noOverflow": true,
+      "path": "/approach/"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderBottom": "1px",
+      "borderRadius": "0px",
+      "borderTop": "0px",
+      "buttonHeight": 44,
+      "inputHeight": 44,
+      "label": "Search DDCNorth",
+      "noOverflow": true,
+      "path": "/about/"
+    }
+  ],
+  "checks": {
+    "inputFocus": {
+      "active": "site-search-input",
+      "border": "rgb(11, 43, 74)",
+      "shadow": "rgb(11, 43, 74) 0px 1px 0px 0px"
+    },
+    "buttonFocus": {
+      "focusVisible": true,
+      "label": "Search",
+      "outline": "solid",
+      "tag": "BUTTON",
+      "width": "2px"
+    },
+    "resultFocus": {
+      "focusVisible": true,
+      "href": "http://localhost:8000/services/#service-data",
+      "outline": "solid",
+      "tag": "A",
+      "width": "2px"
+    },
+    "keyboardNavigation": {
+      "hash": "#service-data",
+      "open": [
+        "service-data"
+      ],
+      "path": "/services/"
+    },
+    "noMatch": "No matching results. Try “data”, “websites”, or “contact”.",
+    "escapeClosed": true,
+    "clearClosed": true,
+    "submitButton": "http://localhost:8000/approach/",
+    "mobile": {
+      "buttonHeight": 48,
+      "fontSize": "16px",
+      "inputHeight": 48,
+      "noOverflow": true,
+      "resultsFit": true,
+      "width": 390
+    },
+    "mobileEnter": {
+      "menuExpanded": "false",
+      "open": [
+        "service-data"
+      ],
+      "path": "/services/"
+    }
+  },
+  "mobilePages": [
+    {
+      "buttonHeight": 48,
+      "inputHeight": 48,
+      "noOverflow": true,
+      "path": "/"
+    },
+    {
+      "buttonHeight": 48,
+      "inputHeight": 48,
+      "noOverflow": true,
+      "path": "/services/"
+    },
+    {
+      "buttonHeight": 48,
+      "inputHeight": 48,
+      "noOverflow": true,
+      "path": "/approach/"
+    },
+    {
+      "buttonHeight": 48,
+      "inputHeight": 48,
+      "noOverflow": true,
+      "path": "/about/"
+    }
+  ],
+  "consoleErrors": [],
+  "screenshotDirectory": "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679"
+}

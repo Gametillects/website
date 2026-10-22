@@ -6,6 +6,9 @@ on:
     paths:
       - index.html
       - 404.html
+      - services/**
+      - approach/**
+      - about/**
       - assets/**
       - licenses/**
       - scripts/build.sh

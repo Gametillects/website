@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "clean_export": "/var/folders/zz/145_sp9926l4ny9j3xz_1hch0000gn/T/ddcnorth-release-candidate-kowijol1",
+  "public_file_hashes": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "404.html": "6f7e03a5914933f7e657c0439f890fe4feb0b5e98ec9ae0138629cfcbde8cfd6",
+    "about/index.html": "b9a10c01643b50e89f3fc3abef76dace3659aef166cc935995cb66911c798126",
+    "approach/index.html": "c6fe813eda1aaf10d0c3adc4383ea1152e374ea1df2e72eaa9ad1ea67d6bd017",
+    "assets/footer.css": "d5bfb3b42154590ce4c8e75275961cce4f3068d04e54b90b830569559e5037fb",
+    "assets/header.css": "553b1c26885d45ac5392837e756d8117cc34ad72bc6182a8045ddc5f6187a1e1",
+    "assets/header.js": "0e0d52e1cc1bd5ded6954c766c84756e58ad1b6e9c4b86bb8c9338a3b70acfab",
+    "assets/site.css": "895b09c788632dd8e6947618bd091b9abb925923aca7eba930cd4fffb13286c8",
+    "index.html": "f97613f52aeb3de08f57690242508a745e141149223ecdfc8ee1cd372bb2bbd4",
+    "licenses/Inter-OFL.txt": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+    "licenses/SpaceMono-OFL.txt": "6758f6915b482dd45950b2a974c75d95692464fd0e5441418e87b2f92f2eea27",
+    "services/index.html": "ae1b8f80c14d173ac745648dda7b70fc3c8f7e241ac09d575cf3747949d4eba5"
+  },
+  "root_and_prefix_link_checks": 173,
+  "unique_ids": true,
+  "one_h1_per_page": true,
+  "build_and_script_syntax": "passed"
+}

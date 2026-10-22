@@ -1,0 +1,253 @@
+{
+  "status": "passed",
+  "desktop": [
+    {
+      "contactInvitations": 0,
+      "hasFooter": true,
+      "hasHeader": true,
+      "headings": [
+        "Built for\nwhat’s next."
+      ],
+      "heroNotes": 0,
+      "noOverflow": true,
+      "path": "/",
+      "sections": [
+        "hero"
+      ],
+      "tags": 0,
+      "title": "DDCNorth | Built for what’s next.",
+      "width": 1395
+    },
+    {
+      "contactInvitations": 0,
+      "hasFooter": true,
+      "hasHeader": true,
+      "headings": [
+        "Big questions.\nUseful answers."
+      ],
+      "heroNotes": 0,
+      "noOverflow": true,
+      "path": "/services/",
+      "sections": [
+        "services"
+      ],
+      "tags": 0,
+      "title": "Services | DDCNorth",
+      "width": 1395
+    },
+    {
+      "contactInvitations": 0,
+      "hasFooter": true,
+      "hasHeader": true,
+      "headings": [
+        "Understand first.\nBuild with purpose."
+      ],
+      "heroNotes": 0,
+      "noOverflow": true,
+      "path": "/approach/",
+      "sections": [
+        "approach"
+      ],
+      "tags": 0,
+      "title": "Our approach | DDCNorth",
+      "width": 1395
+    },
+    {
+      "contactInvitations": 0,
+      "hasFooter": true,
+      "hasHeader": true,
+      "headings": [
+        "A small team.\nA shared way forward."
+      ],
+      "heroNotes": 0,
+      "noOverflow": true,
+      "path": "/about/",
+      "sections": [
+        "about"
+      ],
+      "tags": 0,
+      "title": "About us | DDCNorth",
+      "width": 1395
+    }
+  ],
+  "mobile": [
+    {
+      "contact": [
+        "mailto:Fryderyk@ddcnorth.com",
+        "mailto:Fryderyk@ddcnorth.com"
+      ],
+      "h1": [
+        "Built for\nwhat’s next."
+      ],
+      "noOverflow": true,
+      "path": "/",
+      "removedElements": 0,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "contact": [
+        "mailto:Fryderyk@ddcnorth.com",
+        "mailto:Fryderyk@ddcnorth.com"
+      ],
+      "h1": [
+        "Big questions.\nUseful answers."
+      ],
+      "noOverflow": true,
+      "path": "/services/",
+      "removedElements": 0,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "contact": [
+        "mailto:Fryderyk@ddcnorth.com",
+        "mailto:Fryderyk@ddcnorth.com"
+      ],
+      "h1": [
+        "Understand first.\nBuild with purpose."
+      ],
+      "noOverflow": true,
+      "path": "/approach/",
+      "removedElements": 0,
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "contact": [
+        "mailto:Fryderyk@ddcnorth.com",
+        "mailto:Fryderyk@ddcnorth.com"
+      ],
+      "h1": [
+        "A small team.\nA shared way forward."
+      ],
+      "noOverflow": true,
+      "path": "/about/",
+      "removedElements": 0,
+      "scrollWidth": 375,
+      "width": 390
+    }
+  ],
+  "navigation": {
+    "crossPageSearch": {
+      "hash": "#service-data",
+      "open": [
+        "service-data"
+      ],
+      "path": "/services/"
+    },
+    "reloadServiceFragment": [
+      "service-data"
+    ],
+    "samePageDropdown": {
+      "hash": "#service-digital",
+      "open": [
+        "service-digital"
+      ]
+    },
+    "samePageFooter": {
+      "hash": "#service-planning",
+      "open": [
+        "service-planning"
+      ]
+    },
+    "accordionExclusive": [
+      "service-data"
+    ],
+    "unchangedHashFooter": [
+      "service-planning"
+    ],
+    "noMatch": "No matching results. Try “data”, “websites”, or “contact”.",
+    "escapeClosesSearch": true,
+    "emptyClosesSearch": true,
+    "approachPath": "http://localhost:8000/approach/",
+    "aboutPath": "http://localhost:8000/about/",
+    "homePath": "http://localhost:8000/",
+    "homeCtaPath": "http://localhost:8000/services/",
+    "legacy": [
+      {
+        "fragment": "services",
+        "hash": "",
+        "open": [
+          "service-planning"
+        ],
+        "path": "/services/"
+      },
+      {
+        "fragment": "approach",
+        "hash": "",
+        "open": [],
+        "path": "/approach/"
+      },
+      {
+        "fragment": "about",
+        "hash": "",
+        "open": [],
+        "path": "/about/"
+      },
+      {
+        "fragment": "service-planning",
+        "hash": "#service-planning",
+        "open": [
+          "service-planning"
+        ],
+        "path": "/services/"
+      },
+      {
+        "fragment": "service-data",
+        "hash": "#service-data",
+        "open": [
+          "service-data"
+        ],
+        "path": "/services/"
+      },
+      {
+        "fragment": "service-digital",
+        "hash": "#service-digital",
+        "open": [
+          "service-digital"
+        ],
+        "path": "/services/"
+      }
+    ],
+    "mobileMenuExpanded": "true",
+    "mobileMenuAfterNavigation": {
+      "url": "http://localhost:8000/approach/",
+      "expanded": "false"
+    },
+    "mobileServiceLink": {
+      "hash": "#service-digital",
+      "menuExpanded": "false",
+      "open": [
+        "service-digital"
+      ],
+      "path": "/services/"
+    },
+    "contactSearch": "mailto:Fryderyk@ddcnorth.com"
+  },
+  "prefix": {
+    "homeCta": "http://127.0.0.1:64991/website/services/",
+    "search": {
+      "hash": "#service-digital",
+      "open": [
+        "service-digital"
+      ],
+      "path": "/website/services/"
+    },
+    "reload": [
+      "service-digital"
+    ],
+    "legacy": "http://127.0.0.1:64991/website/approach/"
+  },
+  "consoleErrors": [],
+  "previousEdits": {
+    "aboutText": "About us",
+    "artBottom": "From possibilityto a plan.",
+    "artTop": "Connecting the dots.",
+    "artTopSize": "11px",
+    "description": "Good ideas need a clear way forward.",
+    "removed": 0
+  },
+  "visualReview": "Desktop home, Services, Our approach and mobile Services/About us screenshots inspected; original typography, colors, layout, artwork preserved.",
+  "screenshotDirectory": "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679"
+}

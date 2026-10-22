@@ -15,6 +15,16 @@ python3 -m http.server 8000 --bind 127.0.0.1 --directory _site
 
 Open <http://127.0.0.1:8000/>.
 
+The homepage introduces DDCNorth. Detailed content lives on separate pages:
+
+- <http://127.0.0.1:8000/services/> — services and individual service panels.
+- <http://127.0.0.1:8000/approach/> — Discover, Develop and Deliver.
+- <http://127.0.0.1:8000/about/> — company and team.
+
+Navigation and search work from any page. Earlier homepage section links route
+to the corresponding new pages. Relative asset/link paths also support the
+GitHub Pages `/website/` prefix.
+
 ## Publish changes
 
 Cloudflare Pages is the primary host. Its Git integration connects directly to
@@ -31,7 +41,8 @@ Cloudflare project settings:
 - Root directory: repository root
 - Custom domains: `ddcnorth.com` and `www.ddcnorth.com`
 
-The build publishes only `index.html`, `404.html`, `assets/`, and `licenses/`.
+The build publishes only `index.html`, `404.html`, `services/`, `approach/`,
+`about/`, `assets/`, and `licenses/` (plus `.nojekyll`).
 Repository documentation and configuration are excluded. No deployment token is
 stored in GitHub; Cloudflare's GitHub App handles the native build pipeline.
 
@@ -44,8 +55,10 @@ is public as authorized by its owner for hosting on GitHub Free.
 
 ## Files
 
-- `index.html`: page content, inline styles, logos, and embedded fonts.
-- `assets/`: header/footer styles and navigation/search behavior.
+- `index.html`: homepage, with the original hero artwork and introduction.
+- `services/`, `approach/`, `about/`: the three content pages.
+- `assets/site.css`: shared original styles and embedded fonts.
+- `assets/`: header/footer styles and shared navigation/search/accordion behavior.
 - `scripts/build.sh`: shared static build used by Cloudflare and GitHub Pages.
 - `404.html`: missing-page response for static hosting.
 - `licenses/`: licenses for the bundled Inter and Space Mono fonts.

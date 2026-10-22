@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "baseUrl": "http://localhost:8000/",
+  "desktop": {
+    "aboutLabel": true,
+    "allTagsRemoved": true,
+    "artArrowRemoved": true,
+    "artCaption": "From possibilityto a plan.",
+    "artLabelFont": "11px",
+    "captionRemoved": true,
+    "contactLinks": [
+      "mailto:Fryderyk@ddcnorth.com",
+      "mailto:Fryderyk@ddcnorth.com",
+      "mailto:Fryderyk@ddcnorth.com?subject=Let%E2%80%99s%20talk%20about%20a%20project"
+    ],
+    "contactRemoved": true,
+    "footerRetained": true,
+    "fragmentsResolve": true,
+    "heroNoteRemoved": true,
+    "heroSentence": true,
+    "noOverflow": true,
+    "width": 1074
+  },
+  "mobile": {
+    "artLabelFont": "10px",
+    "noOverflow": true,
+    "width": 390
+  },
+  "contactSearchTarget": "mailto:Fryderyk@ddcnorth.com",
+  "serviceSearchCheck": true,
+  "mobileMenuClosed": true,
+  "consoleErrors": []
+}

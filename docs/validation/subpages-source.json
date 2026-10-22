@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "pages": [
+    "index.html",
+    "services/index.html",
+    "approach/index.html",
+    "about/index.html"
+  ],
+  "page_count": 4,
+  "content_preserved": true,
+  "original_css_prefix_preserved": true,
+  "previous_edits_retained": true,
+  "one_h1_and_unique_ids": true,
+  "metadata_correct": true,
+  "root_and_project_prefix_link_checks": 172,
+  "published_files": [
+    ".nojekyll",
+    "404.html",
+    "about/index.html",
+    "approach/index.html",
+    "assets/footer.css",
+    "assets/header.css",
+    "assets/header.js",
+    "assets/site.css",
+    "index.html",
+    "licenses/Inter-OFL.txt",
+    "licenses/SpaceMono-OFL.txt",
+    "services/index.html"
+  ],
+  "build_and_local_http_match": true
+}

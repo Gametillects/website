@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "checkpoint": "/var/folders/zz/145_sp9926l4ny9j3xz_1hch0000gn/T/ddcnorth-before-search-vih7jle_",
+  "unchanged_production_files": [
+    "index.html",
+    "services/index.html",
+    "approach/index.html",
+    "about/index.html",
+    "assets/site.css",
+    "assets/header.js",
+    "assets/footer.css",
+    "scripts/build.sh",
+    ".github/workflows/deploy-pages.yml"
+  ],
+  "all_non_search_css_preserved": true,
+  "source_build_match": [
+    "index.html",
+    "404.html",
+    "licenses/Inter-OFL.txt",
+    "licenses/SpaceMono-OFL.txt",
+    "approach/index.html",
+    "about/index.html",
+    "assets/header.js",
+    "assets/site.css",
+    "assets/header.css",
+    "assets/footer.css",
+    "services/index.html"
+  ],
+  "served_css_matches": true,
+  "css_sha256": "553b1c26885d45ac5392837e756d8117cc34ad72bc6182a8045ddc5f6187a1e1"
+}

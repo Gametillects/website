@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "local_http_200_matching_build": [
+    "index.html",
+    "404.html",
+    "assets/header.css",
+    "assets/footer.css",
+    "assets/header.js",
+    "licenses/Inter-OFL.txt",
+    "licenses/SpaceMono-OFL.txt"
+  ],
+  "unique_ids": true,
+  "all_fragments_resolve": true,
+  "javascript_syntax": true,
+  "published_paths": [
+    ".nojekyll",
+    "404.html",
+    "assets/",
+    "index.html",
+    "licenses/"
+  ]
+}
