@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "head": "10d250d93cf30da0307f0cc5cd58219ea6b61e48",
+  "remote_sha": "10d250d93cf30da0307f0cc5cd58219ea6b61e48",
+  "working_tree_clean": true,
+  "public_source_unchanged_since": "29facdc0c1948e960365c9751eeeb51c02063261",
+  "cloudflare": {
+    "name": "Cloudflare Pages",
+    "head_sha": "10d250d93cf30da0307f0cc5cd58219ea6b61e48",
+    "status": "completed",
+    "conclusion": "success",
+    "details_url": "https://dash.cloudflare.com/?to=/479e77f49d4ac5d7498529ee360f194b/pages/view/ddcnorth-website/a64dc241-1f63-46df-bc55-971837c06e34"
+  }
+}
