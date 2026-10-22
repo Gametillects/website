@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "local": [
+    {
+      "cta": "services/",
+      "footer": true,
+      "footerTop": 594.1875,
+      "hero": true,
+      "mainBottom": 594.1875,
+      "noOverflow": true,
+      "strip": 0,
+      "url": "http://localhost:8000/",
+      "width": 1395
+    },
+    {
+      "cta": "services/",
+      "footer": true,
+      "footerTop": 864.46875,
+      "hero": true,
+      "mainBottom": 864.46875,
+      "noOverflow": true,
+      "strip": 0,
+      "url": "http://localhost:8000/",
+      "width": 390
+    }
+  ]
+}

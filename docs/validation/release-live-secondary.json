@@ -1,0 +1,116 @@
+{
+  "status": "passed",
+  "base": "https://ddcnorth.github.io/website/",
+  "source_commit": "853aeb7921841f239571c04b97bb10a3424b7064",
+  "files": [
+    {
+      "file": "404.html",
+      "url": "https://ddcnorth.github.io/website/404.html",
+      "final_url": "https://ddcnorth.github.io/website/404.html",
+      "status": 200,
+      "raw_sha256": "6f7e03a5914933f7e657c0439f890fe4feb0b5e98ec9ae0138629cfcbde8cfd6",
+      "compared_sha256": "6f7e03a5914933f7e657c0439f890fe4feb0b5e98ec9ae0138629cfcbde8cfd6",
+      "transformations": {}
+    },
+    {
+      "file": "about/index.html",
+      "url": "https://ddcnorth.github.io/website/about/",
+      "final_url": "https://ddcnorth.github.io/website/about/",
+      "status": 200,
+      "raw_sha256": "b9a10c01643b50e89f3fc3abef76dace3659aef166cc935995cb66911c798126",
+      "compared_sha256": "b9a10c01643b50e89f3fc3abef76dace3659aef166cc935995cb66911c798126",
+      "transformations": {}
+    },
+    {
+      "file": "approach/index.html",
+      "url": "https://ddcnorth.github.io/website/approach/",
+      "final_url": "https://ddcnorth.github.io/website/approach/",
+      "status": 200,
+      "raw_sha256": "c6fe813eda1aaf10d0c3adc4383ea1152e374ea1df2e72eaa9ad1ea67d6bd017",
+      "compared_sha256": "c6fe813eda1aaf10d0c3adc4383ea1152e374ea1df2e72eaa9ad1ea67d6bd017",
+      "transformations": {}
+    },
+    {
+      "file": "assets/footer.css",
+      "url": "https://ddcnorth.github.io/website/assets/footer.css",
+      "final_url": "https://ddcnorth.github.io/website/assets/footer.css",
+      "status": 200,
+      "raw_sha256": "d5bfb3b42154590ce4c8e75275961cce4f3068d04e54b90b830569559e5037fb",
+      "compared_sha256": "d5bfb3b42154590ce4c8e75275961cce4f3068d04e54b90b830569559e5037fb",
+      "transformations": {}
+    },
+    {
+      "file": "assets/header.css",
+      "url": "https://ddcnorth.github.io/website/assets/header.css",
+      "final_url": "https://ddcnorth.github.io/website/assets/header.css",
+      "status": 200,
+      "raw_sha256": "553b1c26885d45ac5392837e756d8117cc34ad72bc6182a8045ddc5f6187a1e1",
+      "compared_sha256": "553b1c26885d45ac5392837e756d8117cc34ad72bc6182a8045ddc5f6187a1e1",
+      "transformations": {}
+    },
+    {
+      "file": "assets/header.js",
+      "url": "https://ddcnorth.github.io/website/assets/header.js",
+      "final_url": "https://ddcnorth.github.io/website/assets/header.js",
+      "status": 200,
+      "raw_sha256": "0e0d52e1cc1bd5ded6954c766c84756e58ad1b6e9c4b86bb8c9338a3b70acfab",
+      "compared_sha256": "0e0d52e1cc1bd5ded6954c766c84756e58ad1b6e9c4b86bb8c9338a3b70acfab",
+      "transformations": {}
+    },
+    {
+      "file": "assets/site.css",
+      "url": "https://ddcnorth.github.io/website/assets/site.css",
+      "final_url": "https://ddcnorth.github.io/website/assets/site.css",
+      "status": 200,
+      "raw_sha256": "895b09c788632dd8e6947618bd091b9abb925923aca7eba930cd4fffb13286c8",
+      "compared_sha256": "895b09c788632dd8e6947618bd091b9abb925923aca7eba930cd4fffb13286c8",
+      "transformations": {}
+    },
+    {
+      "file": "index.html",
+      "url": "https://ddcnorth.github.io/website/",
+      "final_url": "https://ddcnorth.github.io/website/",
+      "status": 200,
+      "raw_sha256": "f97613f52aeb3de08f57690242508a745e141149223ecdfc8ee1cd372bb2bbd4",
+      "compared_sha256": "f97613f52aeb3de08f57690242508a745e141149223ecdfc8ee1cd372bb2bbd4",
+      "transformations": {}
+    },
+    {
+      "file": "licenses/Inter-OFL.txt",
+      "url": "https://ddcnorth.github.io/website/licenses/Inter-OFL.txt",
+      "final_url": "https://ddcnorth.github.io/website/licenses/Inter-OFL.txt",
+      "status": 200,
+      "raw_sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+      "compared_sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+      "transformations": {}
+    },
+    {
+      "file": "licenses/SpaceMono-OFL.txt",
+      "url": "https://ddcnorth.github.io/website/licenses/SpaceMono-OFL.txt",
+      "final_url": "https://ddcnorth.github.io/website/licenses/SpaceMono-OFL.txt",
+      "status": 200,
+      "raw_sha256": "6758f6915b482dd45950b2a974c75d95692464fd0e5441418e87b2f92f2eea27",
+      "compared_sha256": "6758f6915b482dd45950b2a974c75d95692464fd0e5441418e87b2f92f2eea27",
+      "transformations": {}
+    },
+    {
+      "file": "services/index.html",
+      "url": "https://ddcnorth.github.io/website/services/",
+      "final_url": "https://ddcnorth.github.io/website/services/",
+      "status": 200,
+      "raw_sha256": "ae1b8f80c14d173ac745648dda7b70fc3c8f7e241ac09d575cf3747949d4eba5",
+      "compared_sha256": "ae1b8f80c14d173ac745648dda7b70fc3c8f7e241ac09d575cf3747949d4eba5",
+      "transformations": {}
+    }
+  ],
+  "missing_paths": [
+    {
+      "route": "docs/STATUS.md",
+      "status": 404
+    },
+    {
+      "route": "not-a-page-release-verification/",
+      "status": 404
+    }
+  ]
+}
