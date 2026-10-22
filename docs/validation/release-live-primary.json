@@ -1,7 +1,7 @@
 {
   "status": "passed",
   "base": "https://ddcnorth.com/",
-  "source_commit": "853aeb7921841f239571c04b97bb10a3424b7064",
+  "source_commit": "29facdc0c1948e960365c9751eeeb51c02063261",
   "files": [
     {
       "file": "404.html",
@@ -21,7 +21,7 @@
       "url": "https://ddcnorth.com/about/",
       "final_url": "https://ddcnorth.com/about/",
       "status": 200,
-      "raw_sha256": "0e055f82fafc14fcc87d5e938dc2686399824e06e596039ba49550f2c1cec59e",
+      "raw_sha256": "2c2fa8a8b878c33d751d0f4b05b8c608fccf09ba5306377abb3740721d5e0cf0",
       "compared_sha256": "b9a10c01643b50e89f3fc3abef76dace3659aef166cc935995cb66911c798126",
       "transformations": {
         "analytics_scripts": 1,
@@ -34,7 +34,7 @@
       "url": "https://ddcnorth.com/approach/",
       "final_url": "https://ddcnorth.com/approach/",
       "status": 200,
-      "raw_sha256": "3c923561ba3dc0b433b6b23ed65c699506565bdd0c1e8f843768c8ab937e6070",
+      "raw_sha256": "b0a2f0f499426ef2f590a3865e37af6dfe9f371dc9f7ffca13d1d7e01855a956",
       "compared_sha256": "c6fe813eda1aaf10d0c3adc4383ea1152e374ea1df2e72eaa9ad1ea67d6bd017",
       "transformations": {
         "analytics_scripts": 1,
@@ -83,8 +83,8 @@
       "url": "https://ddcnorth.com/",
       "final_url": "https://ddcnorth.com/",
       "status": 200,
-      "raw_sha256": "2db1c9a1428af8c0c13c5692ef6286ef6b7e6cf71a69a56b752ab72b2875b56e",
-      "compared_sha256": "f97613f52aeb3de08f57690242508a745e141149223ecdfc8ee1cd372bb2bbd4",
+      "raw_sha256": "ae363992c64e7f39209d4641c120db41cc2a06781aac0928b1076e1f8bf613f7",
+      "compared_sha256": "1f08468a4666440db44ed402ee99cbc1206a383d406b3056d2acb67bc5630981",
       "transformations": {
         "analytics_scripts": 1,
         "email_decoder_scripts": 1,
@@ -114,7 +114,7 @@
       "url": "https://ddcnorth.com/services/",
       "final_url": "https://ddcnorth.com/services/",
       "status": 200,
-      "raw_sha256": "e87ae13b06792b006083d4b65c7f075ccf45adab0827757aa51a31d8fe04cf9f",
+      "raw_sha256": "077173ce9ec781638d00e766c6bdb76c1254b744bf4f8b985b2d165e8f4364e0",
       "compared_sha256": "ae1b8f80c14d173ac745648dda7b70fc3c8f7e241ac09d575cf3747949d4eba5",
       "transformations": {
         "analytics_scripts": 1,

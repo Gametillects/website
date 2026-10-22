@@ -1,7 +1,7 @@
 {
   "status": "passed",
   "base": "https://ddcnorth.github.io/website/",
-  "source_commit": "853aeb7921841f239571c04b97bb10a3424b7064",
+  "source_commit": "29facdc0c1948e960365c9751eeeb51c02063261",
   "files": [
     {
       "file": "404.html",
@@ -71,8 +71,8 @@
       "url": "https://ddcnorth.github.io/website/",
       "final_url": "https://ddcnorth.github.io/website/",
       "status": 200,
-      "raw_sha256": "f97613f52aeb3de08f57690242508a745e141149223ecdfc8ee1cd372bb2bbd4",
-      "compared_sha256": "f97613f52aeb3de08f57690242508a745e141149223ecdfc8ee1cd372bb2bbd4",
+      "raw_sha256": "1f08468a4666440db44ed402ee99cbc1206a383d406b3056d2acb67bc5630981",
+      "compared_sha256": "1f08468a4666440db44ed402ee99cbc1206a383d406b3056d2acb67bc5630981",
       "transformations": {}
     },
     {

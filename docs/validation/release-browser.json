@@ -1,0 +1,136 @@
+{
+  "status": "passed",
+  "sourceCommit": "29facdc0c1948e960365c9751eeeb51c02063261",
+  "desktop": [
+    {
+      "contact": [
+        "mailto:Fryderyk@ddcnorth.com",
+        "mailto:Fryderyk@ddcnorth.com",
+        "mailto:Fryderyk@ddcnorth.com?subject=Let%E2%80%99s%20talk%20about%20a%20project"
+      ],
+      "footer": true,
+      "h1": [
+        "Built for\nwhat’s next."
+      ],
+      "hero": true,
+      "noOverflow": true,
+      "path": "/",
+      "removed": 0,
+      "searchBorder": "0px"
+    },
+    {
+      "contact": [
+        "mailto:Fryderyk@ddcnorth.com",
+        "mailto:Fryderyk@ddcnorth.com",
+        "mailto:Fryderyk@ddcnorth.com?subject=Let%E2%80%99s%20talk%20about%20a%20project"
+      ],
+      "footer": true,
+      "h1": [
+        "Big questions.\nUseful answers."
+      ],
+      "hero": false,
+      "noOverflow": true,
+      "path": "/services/",
+      "removed": 0,
+      "searchBorder": "0px"
+    },
+    {
+      "contact": [
+        "mailto:Fryderyk@ddcnorth.com",
+        "mailto:Fryderyk@ddcnorth.com",
+        "mailto:Fryderyk@ddcnorth.com?subject=Let%E2%80%99s%20talk%20about%20a%20project"
+      ],
+      "footer": true,
+      "h1": [
+        "Understand first.\nBuild with purpose."
+      ],
+      "hero": false,
+      "noOverflow": true,
+      "path": "/approach/",
+      "removed": 0,
+      "searchBorder": "0px"
+    },
+    {
+      "contact": [
+        "mailto:Fryderyk@ddcnorth.com",
+        "mailto:Fryderyk@ddcnorth.com",
+        "mailto:Fryderyk@ddcnorth.com?subject=Let%E2%80%99s%20talk%20about%20a%20project"
+      ],
+      "footer": true,
+      "h1": [
+        "A small team.\nA shared way forward."
+      ],
+      "hero": false,
+      "noOverflow": true,
+      "path": "/about/",
+      "removed": 0,
+      "searchBorder": "0px"
+    }
+  ],
+  "mobile": [
+    {
+      "footerTop": 864.46875,
+      "mainBottom": 864.46875,
+      "noOverflow": true,
+      "path": "/",
+      "strip": 0,
+      "width": 390
+    },
+    {
+      "footerTop": 801.109375,
+      "mainBottom": 801.109375,
+      "noOverflow": true,
+      "path": "/services/",
+      "strip": 0,
+      "width": 390
+    },
+    {
+      "footerTop": 1082.375,
+      "mainBottom": 1082.375,
+      "noOverflow": true,
+      "path": "/approach/",
+      "strip": 0,
+      "width": 390
+    },
+    {
+      "footerTop": 630.421875,
+      "mainBottom": 630.421875,
+      "noOverflow": true,
+      "path": "/about/",
+      "strip": 0,
+      "width": 390
+    }
+  ],
+  "checks": {
+    "search": {
+      "hash": "#service-data",
+      "open": [
+        "service-data"
+      ],
+      "path": "/services/"
+    },
+    "reloadOpen": [
+      "service-data"
+    ],
+    "footerOpen": [
+      "service-planning"
+    ],
+    "noMatch": "No matching results. Try “data”, “websites”, or “contact”.",
+    "escapeClosed": true,
+    "emptyClosed": true,
+    "mobileNavigation": {
+      "menu": "false",
+      "path": "/approach/"
+    },
+    "secondarySearch": {
+      "hash": "#service-digital",
+      "open": [
+        "service-digital"
+      ],
+      "path": "/website/services/"
+    },
+    "legacy": "https://ddcnorth.com/about/"
+  },
+  "errors": [],
+  "screenshotDirectory": "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679"
+}
