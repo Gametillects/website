@@ -1,4 +1,12 @@
-# Current status — bilingual website published and verified
+# M15 publish dropdown/headline correction — in progress
+
+User reports old label on live site. Publishing reviewed M14 correction to existing hosts. Readiness/precommit audit pending.
+
+# M14 dropdown/headline cleanup — verified locally
+
+Two focused local changes against release `79645a3`: removed both dropdown headings and separated the hero period from the final letter. Readiness PASS. Bounded three-file production diff, build/source/HTTP equality and whitespace pass. EN/FR desktop and 320 px mobile retain two-line headlines without horizontal overflow; dropdown cards/navigation, hidden search and compact footer preserved. Evidence: `docs/validation/type-source.json`, `type-browser.json`; before/after screenshots recorded. Final independent completion audit PASS (`docs/validation/type-guardian.md`); TYPE-001–003 VERIFIED. No open findings. Local preview ready; no commit/push.
+
+# Historical — M13 bilingual website published and verified
 
 User authorized publishing the current approved bilingual single-page website. Preserve existing primary Cloudflare and secondary GitHub Pages hosting. Starting local/remote main: `a99e2400e7c5de69169254dcabbd77aba8325136`. No additional design changes. Readiness/source-precommit PASS. Source commit `2555a5855a76a0f0eede307401bce2e2883835ef` pushed normally to main. Cloudflare Pages and GitHub Pages both report success for that source. Both hosts serve fourteen content files matching the clean export (primary uses only documented Cloudflare email/analytics normalization; secondary exact). Documentation and missing routes return 404. Live desktop/mobile tests pass for English/French globe switching, preserved service fragments/reload, legacy route, hidden search, removed Back-to-top and no overflow/console errors.
 

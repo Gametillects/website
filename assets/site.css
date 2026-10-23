@@ -31,3 +31,6 @@
 @media(max-width:560px){.about-label{display:none}.service-list summary{grid-template-columns:1fr 15px}}
 html[lang=fr] .hero h1{font-size:clamp(52px,6vw,88px)}
 @media(max-width:560px){html[lang=fr] .hero h1{font-size:clamp(52px,12vw,68px)}}
+
+/* Keep the blue punctuation clear of the preceding headline letter. */
+.hero h1 .period{margin-inline-start:.045em}

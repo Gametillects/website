@@ -138,3 +138,18 @@ Source: user explicitly requests “push this to live”. Publish the current M7
 - LIVE-001: Audit and commit the reviewed site plus retained documentation; clean-copy static build, unique IDs/heading and root/project-prefix asset/fragment checks, three JS syntax checks and whitespace pass. Remote main must match the starting HEAD before normal (non-force) push. Obtain readiness/precommit PASS and verify pushed source SHA.
 - LIVE-002: Both existing deployments report success for that source commit. Primary EN/FR pages, compatibility routes, error page and assets match the clean export; allow only the already documented Cloudflare analytics/email transformations. Secondary exact byte matches. Verify live globe language selection, section fragment/disclosure, hidden search, removed footer link and desktop/mobile layout; save screenshot and evidence.
 - LIVE-003: Record release evidence, obtain final independent completion/precommit PASS, then commit/push documentation-only evidence. Verify clean working tree, synchronized remote and any triggered primary deployment with unchanged public content. Do not declare deployment based on push alone.
+
+## M14: Dropdown label and headline spacing (2026-10-23)
+
+Source: two user live-page annotations: remove dropdown “Planning. Data. Digital.” and fix the final “t.” in the hero. Local review scope; no new publication requested. Baseline committed release `79645a3`.
+
+- TYPE-001: Remove the dropdown-heading paragraph in English and French, retain all service cards and dropdown behavior.
+- TYPE-002: Separate the hero’s blue period from the preceding letter using a narrowly scoped spacing rule, retaining original typeface, headline text/size/weight, line breaks and palette. Inspect final t/dot at desktop/mobile; do not redesign typography.
+- TYPE-003: Source diff limited to these two paragraphs and hero-period rule; build/HTTP/whitespace and EN/FR desktop/mobile inspection pass without overflow. Preserve previously approved globe, footer and disabled search. Save before/after evidence and independent readiness/completion PASS. No commit/push.
+
+## M15: Publish the dropdown/headline correction (2026-10-23)
+
+Source: user reports removed label still visible on ddcnorth.com. Publish the already reviewed M14 correction to existing hosts; supersedes M14 local-only restriction. No additional production changes.
+
+- FIXLIVE-001: Readiness/precommit guardian PASS; build and whitespace pass; normal push reviewed M14 changes to main after checking remote baseline.
+- FIXLIVE-002: Confirm primary and secondary deployment success, live EN/FR dropdown labels absent and period margin present, live browser screenshot; final guardian PASS before marking complete.

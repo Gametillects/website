@@ -1,0 +1,80 @@
+{
+  "beforeDesktop": {
+    "font": "\"Inter Display\", Inter, Arial, sans-serif",
+    "fontSize": "83.84px",
+    "letterSpacing": "-5.4496px",
+    "margin": "0px"
+  },
+  "beforeMobile": {
+    "client": 320,
+    "h1Height": 125.234375,
+    "lineHeight": "62.62px",
+    "right": 296.6328125,
+    "scroll": 320,
+    "w": 320
+  },
+  "layouts": [
+    {
+      "client": 1280,
+      "h1Height": 169.359375,
+      "labelCount": 0,
+      "lang": "en",
+      "lineHeight": "84.6784px",
+      "margin": "3.7728px",
+      "scroll": 1280,
+      "w": 1280
+    },
+    {
+      "client": 320,
+      "h1Height": 125.234375,
+      "lang": "en",
+      "lineHeight": "62.62px",
+      "margin": "2.79px",
+      "right": 299.421875,
+      "scroll": 320,
+      "w": 320
+    },
+    {
+      "client": 320,
+      "h1Height": 105.03125,
+      "lang": "fr",
+      "lineHeight": "52.52px",
+      "margin": "2.34px",
+      "scroll": 320,
+      "w": 320
+    },
+    {
+      "client": 1280,
+      "h1Height": 155.125,
+      "lang": "fr",
+      "lineHeight": "77.568px",
+      "margin": "3.456px",
+      "scroll": 1280,
+      "w": 1280
+    }
+  ],
+  "dropdownEnglish": {
+    "cards": 3,
+    "heading": 0,
+    "open": true
+  },
+  "dropdownFrench": {
+    "cards": 3,
+    "footerTop": 0,
+    "heading": 0,
+    "open": true,
+    "searchHidden": true
+  },
+  "serviceNavigation": {
+    "dropdownClosed": true,
+    "hash": "#service-data",
+    "open": true
+  },
+  "consoleErrors": [],
+  "screenshots": [
+    "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/headline-before.png",
+    "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/headline-after.png",
+    "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/headline-mobile-after.png",
+    "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/dropdown-cleanup.png"
+  ]
+}

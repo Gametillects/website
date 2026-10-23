@@ -1,0 +1,88 @@
+{
+  "baseline": "79645a3b92441058d3d5dc99e9fdb40f02cfd9bd",
+  "production_changed": [
+    "assets/site.css",
+    "fr/index.html",
+    "index.html"
+  ],
+  "public_files": [
+    {
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "source_build_http_match": true
+    },
+    {
+      "path": "404.html",
+      "sha256": "655f21fdcb4f8dfe8d7310a0888b57863ea187d800e603ca5cca5756730d3ef9",
+      "source_build_http_match": true
+    },
+    {
+      "path": "about/index.html",
+      "sha256": "89f2a9454dc5fe82999273b5f32ae23f5b88f9d933788ac02432f846fcdcb515",
+      "source_build_http_match": true
+    },
+    {
+      "path": "approach/index.html",
+      "sha256": "fdb707bb91a855b31afd2cf359eeb4243c269d3435d9ce9c0cca5b2bf15d91f2",
+      "source_build_http_match": true
+    },
+    {
+      "path": "assets/config.js",
+      "sha256": "5956f25d0bdafd794f1a14da4c836c3564780131862e6947ec8b4c6554f7b35f",
+      "source_build_http_match": true
+    },
+    {
+      "path": "assets/footer.css",
+      "sha256": "40401fcb185d535e75cb271020da6b8964122f58529cd35fdc766b39044cfaca",
+      "source_build_http_match": true
+    },
+    {
+      "path": "assets/header.css",
+      "sha256": "733ef3d955a6363c334f2400cbdcdee108faa1c99445f877cbcd0a8a2489097e",
+      "source_build_http_match": true
+    },
+    {
+      "path": "assets/header.js",
+      "sha256": "3d5ae7c69243204c55a62e0f20427c7055c03d724179c46a548303ab9e8453e9",
+      "source_build_http_match": true
+    },
+    {
+      "path": "assets/section-redirect.js",
+      "sha256": "67f848eb7db17126a6daf82907c98f99574704a1d8adc2422f59897a1151ea07",
+      "source_build_http_match": true
+    },
+    {
+      "path": "assets/site.css",
+      "sha256": "70b01bc64fe1e1fc70851c89294c95401ee682b5d11e1fb732cef08b6f1ee0fd",
+      "source_build_http_match": true
+    },
+    {
+      "path": "fr/index.html",
+      "sha256": "3a2818981547dee63fb4e8c4fbb7311bb46768f5e76673a37fbd1e5a935d0ac4",
+      "source_build_http_match": true
+    },
+    {
+      "path": "index.html",
+      "sha256": "5c934e96dc586070d5f5bfea004973fe9fff97f47537c39050b50a7b39726386",
+      "source_build_http_match": true
+    },
+    {
+      "path": "licenses/Inter-OFL.txt",
+      "sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+      "source_build_http_match": true
+    },
+    {
+      "path": "licenses/SpaceMono-OFL.txt",
+      "sha256": "6758f6915b482dd45950b2a974c75d95692464fd0e5441418e87b2f92f2eea27",
+      "source_build_http_match": true
+    },
+    {
+      "path": "services/index.html",
+      "sha256": "560e0b485f47b4e6e3931af4cb2f5c918488db5c4523b7c26589b85480a4bd38",
+      "source_build_http_match": true
+    }
+  ],
+  "whitespace": "PASS",
+  "build": "sh scripts/build.sh passed",
+  "scope": "Local only; no commit or push"
+}
