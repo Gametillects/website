@@ -1,4 +1,80 @@
+# M13 publication — preflight in progress
+
+User authorized publishing the current approved bilingual single-page website. Preserve existing primary Cloudflare and secondary GitHub Pages hosting. Starting local/remote main: `a99e2400e7c5de69169254dcabbd77aba8325136`. No additional design changes. Readiness/precommit audit pending.
+
+# Historical — M12 globe dropdown and footer update verified
+
+Local-only globe language disclosure and Back-to-top removal. Readiness PASS; GLOBE-001–003 VERIFIED after final independent PASS. No open findings. Audit: `docs/validation/globe-guardian.md`. Original globe restored in native disclosure; localized accessible trigger, full English/Français choices and current-language indication. Back-to-top link/arrow/styles removed from both footers. Main HTML content and search flag unchanged. Source/build/HTTP and clean-copy build pass, three JS syntax checks and whitespace pass. Desktop and 390/320 px mobile checks pass: pointer/keyboard opening, Escape focus return, outside click/focus, selection closing, mobile services, fragment-preserving locale/prefix navigation, and native no-JavaScript selection. No console errors. Reports: `globe-source.json`, `globe-browser.json`. Final review PASS; local preview running and open. No publication. Baseline: `/var/folders/zz/145_sp9926l4ny9j3xz_1hch0000gn/T/ddcnorth-before-globe-gm_85ep6`.
+
+# Historical — M11 bilingual cleanup verified
+
+Local-only requested cleanup and full French translation. Baseline: `/var/folders/zz/145_sp9926l4ny9j3xz_1hch0000gn/T/ddcnorth-before-bilingual-xfs5s72j`. Existing M10 completion is historical for the authorized changes. Readiness audit PASS. LANG-001–004 are VERIFIED after independent readiness and final completion PASS. No open findings. Final audit: `docs/validation/bilingual-guardian.md`.
+
+English and French are complete static single pages, with all requested removals. Search is retained behind `assets/config.js` (`searchEnabled: false`), initially hidden/inert and disabled. A separate temporary build with the flag enabled passes localized search, keyboard, empty/no-match/Escape and mobile-submit checks in both languages. French remains complete with scripts disabled. EN/FR switching preserves service fragments and reloads, including `/website/` deployment paths. Default search is skipped by keyboard and hidden in the mobile menu.
+
+Source/build/HTTP equality passes for 14 public files plus `.nojekyll`; 68 internal root/project-prefix targets pass. Existing brand/font/footer assets preserved; no horizontal overflow at desktop/mobile, additionally French at 320 and 900 px. Syntax/whitespace and clean-copy build pass; no browser console errors. Evidence: `docs/validation/bilingual-source.json` and `bilingual-browser.json`. Screenshots include full French desktop/mobile plus header/hero preview. Only the French workflow path filter/build inclusion changed deployment support; no hosting settings, commit, push, or publication. Final independent audit PASS; local preview remains open and running. No publication.
+
+Audit finding LANG-404-001: the added French 404 link used host-root `/fr/`, which loses the GitHub project prefix. Corrected both error-page home links to the canonical primary English/French URLs. Rebuilt and reran source/build/HTTP checks; corrected 404 markup contains canonical absolute destinations.
+
+# Historical — M10 one-page site and minimal footer verified
+
+User requests one page and a smaller minimal footer. Preserve current content/design outside section consolidation, anchor routing and footer simplification. Baseline snapshot: `/var/folders/zz/145_sp9926l4ny9j3xz_1hch0000gn/T/ddcnorth-before-one-page-a5pjcx3v`. Previous M4/M9 layouts are superseded only within the authorized scope. No publication requested.
+
+M10 readiness and final independent local-completion audits PASS. ONE-001–003 are VERIFIED; no open findings. Audit: `docs/validation/one-page-guardian.md`. Existing section content is consolidated after the unchanged hero, and navigation/search use home anchors. The footer measures 96 px on desktop and 127.36 px at 390 px mobile (both within limits). Root and project-prefix legacy redirects preserve service fragments. Source preservation, unique IDs/headings, 44 internal references, clean build, 12 public HTTP/source matches, syntax/whitespace, mobile menu, search, exclusive service disclosures, reload/same-hash links and keyboard footer focus pass. Browser console errors: none. Evidence: `docs/validation/one-page-source.json`, `one-page-browser.json`; desktop/mobile screenshots recorded in the browser report. No commit or publication. Local site is running at <http://localhost:8000/>; the original browser tab is open at the homepage.
+
+# Historical — M9 previous website restored
+
+M9 readiness and final independent local-completion audits: **PASS**. REVERT-001–003 are VERIFIED; no mandatory findings remain. The mockup-based M8 iteration is reversed. The site exactly matches the pre-M8 version, including all earlier requested edits and M7 eyebrow removal. It is running at <http://localhost:8000/> and the browser has been refreshed. No commit, push, or publication occurred. The recovery snapshot retains M8 if needed.
+
+Evidence: `docs/validation/reversal-source.json`, `reversal-browser.json`, and `reversal-guardian.md`. Restored screenshot: `/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/restored-preview.png`. All pending statements below describe historical work states and are superseded by this final record.
+
+# Historical — M9 verification passed — completion audit pending
+
+All nine target files exactly match `a99e240` plus the approved M7 eyebrow removal. Production Git diff is now only that one-line M7 removal. Eleven public files match source/build/HTTP 200; hosting/build/licenses/404 are unchanged. Syntax and whitespace checks pass. All four pages fit at 1440 and 390 px; the original two-row header/footer and earlier removals are present, M8 overview/profiles absent. Search, mobile navigation and exclusive service disclosures pass with no console errors. Evidence: `docs/validation/reversal-source.json` and `reversal-browser.json`. M8 is explicitly historical/superseded. Readiness PASS; final independent audit pending. Local server remains running, user tab refreshed.
+
+# Historical — M9 restored — verification in progress
+
+Readiness audit PASS. The nine target files now exactly restore the pre-M8 website, retaining M7. Rebuilding and refreshing the local preview; final independent audit pending. No commit or publication.
+
+# Historical — M9 reversal in progress
+
+The user requested reversing the latest changes. Target: pre-M8 site (`a99e240` plus approved M7 eyebrow removal), with earlier removals, subpages and refined search retained. M8 recovery snapshot: `/var/folders/zz/145_sp9926l4ny9j3xz_1hch0000gn/T/ddcnorth-m8-before-revert-adsmguns`. Exact target comparison prepared; production restoration awaits readiness audit. M8 completion entries below are historical and superseded by this reversal.
+
+# Historical — M8 completed, subsequently reversed by M9
+
+Independent milestone and final local-completion audit: **PASS**. ITER-001–006 are VERIFIED. No mandatory findings remain; PG-M8-001 was resolved before implementation. Audit report: `docs/validation/iteration-guardian.md`. The guardian confirmed the selective reference use, measured compactness, preserved brand/removals, four-page layouts, build integrity, and navigation/search behavior.
+
+The local homepage is ready at <http://localhost:8000/>. The original browser tab is restored to the homepage; responsive overrides are cleared. Final preview screenshot: `/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/iteration-preview.png`. Current work is uncommitted and unpublished, as a local design iteration. The last public deployment remains the M6 release below.
+
+The entries below are chronological evidence from earlier work states; pending/in-progress statements in historical entries are superseded by this completion record.
+
+## Historical — M8 implementation and verification — awaiting independent completion audit
+
+ITER-001–006 are IMPLEMENTED. See `docs/ITERATION.md` for source selection, design rationale, measured comparisons, and verification procedure. Header/hero/footer reduced from 154/635/305 px to 84/432/153 px at desktop; new service overview is 142 px. Main paragraphs are 24 words or fewer. Homepage is 1219 px tall on mobile. All four pages fit at 1440/390/900 px, and mobile search controls are 48 px with 16 px input text.
+
+Source/build/HTTP agreement, clean-copy build, 144 root/project-prefix references, original font/logo preservation, retained removals, JavaScript syntax, and whitespace checks pass. Browser search/dropdown/mobile/keyboard/deep-link/legacy-route checks pass. Per-page network captures (without event truncation) and console inspection show no errors. Eight screenshots were visually reviewed. Search Escape handling was corrected to keep results dismissed after returning focus to the input.
+
+Evidence: `docs/validation/iteration-source.json` and `iteration-browser.json`. Readiness re-audit PASS resolved PG-M8-001. No publication or commit was performed. Completion is pending the required independent audit.
+
+Baseline verification note: the earlier temporary snapshot path was no longer available. Reconstructed the baseline from HEAD `a99e240` plus the already-approved M7 single-paragraph removal; no other production changes existed before M8. New path: `/var/folders/zz/145_sp9926l4ny9j3xz_1hch0000gn/T/ddcnorth-baseline-recovered-vw9s7zqv`.
+
+## Historical — M8 implementation in progress
+
+Readiness re-audit returned PASS; PG-M8-001 is resolved. Implementing the selectively adapted reference as a local iteration. Existing embedded fonts and logo SVG are retained exactly. The header is now one row, home has three concise service links, services have concrete examples, and process/team pages use compact content grids. Next: build, DOM/layout measurements, desktop/mobile interaction review, and independent completion audit.
+
+## Historical — M8 readiness correction
+
+The first readiness audit returned FAIL (PG-M8-001): qualitative compactness/concision criteria needed measurable bounds. Recorded and corrected by adding paragraph word limits, header/hero/footer/document dimensions, spacing limits, viewport sizes, empty-column checks, and explicit keyboard-focus/mobile search control requirements to M8. Re-audit pending; production implementation has not begun.
+
 # Publication status
+
+## Historical — Compact mockup-informed iteration (2026-10-22)
+
+The user requested a next local iteration with concise content and purposeful spacing. The supplied mockup was read and rendered. Selected ideas: simpler navigation, practical service examples, three process steps and concise founder roles. Excluded: lorem ipsum/product placeholders, placeholder email, large repeated marketing sections, pricing/ownership promises and unsupported capability claims. Existing logo, fonts, colours and four-page structure remain the foundation. M8 ITER-001–006 recorded; readiness audit pending. No publication requested.
+
+## Local homepage eyebrow removal (2026-10-22)
+
+The user's new browser comment requests removal of the `Planning · Data · Digital` label and dot above the headline. EDIT-008 records this narrow local-preview change after the completed release below. Independent M7 readiness audit: PASS. The exact paragraph and dot are removed; all other production source is unchanged. Build/local HTTP equality and desktop/mobile DOM/layout checks passed, with no overflow. The headline, description, artwork, CTA and services-dropdown heading remain. Evidence: `docs/validation/eyebrow-removal.json` and saved desktop/mobile screenshots. Independent M7 completion audit: PASS. EDIT-008 is VERIFIED, with no outstanding findings. No commit, push or publication performed for this local edit.
 
 ## Publish reviewed updates (2026-10-22)
 

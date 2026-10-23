@@ -1,0 +1,57 @@
+{
+  "pages": {
+    "index.html": {
+      "h1": 1,
+      "unique_ids": 11,
+      "metadata": "https://ddcnorth.com/",
+      "http_status": 200,
+      "source_build_http_match": true
+    },
+    "services/index.html": {
+      "h1": 1,
+      "unique_ids": 15,
+      "metadata": "https://ddcnorth.com/services/",
+      "http_status": 200,
+      "source_build_http_match": true
+    },
+    "approach/index.html": {
+      "h1": 1,
+      "unique_ids": 12,
+      "metadata": "https://ddcnorth.com/approach/",
+      "http_status": 200,
+      "source_build_http_match": true
+    },
+    "about/index.html": {
+      "h1": 1,
+      "unique_ids": 12,
+      "metadata": "https://ddcnorth.com/about/",
+      "http_status": 200,
+      "source_build_http_match": true
+    }
+  },
+  "reference": "/Users/amiretminanrad/Downloads/DDC North Website Mockup.html",
+  "baseline": "/var/folders/zz/145_sp9926l4ny9j3xz_1hch0000gn/T/ddcnorth-baseline-recovered-vw9s7zqv",
+  "link_checks": 144,
+  "embedded_fonts_unchanged": 4,
+  "logo_unchanged_on_all_pages": true,
+  "hosting_build_licenses_404_unchanged": true,
+  "prior_removals_retained": true,
+  "javascript_and_whitespace": "PASS",
+  "build_files": [
+    ".nojekyll",
+    "404.html",
+    "about/index.html",
+    "approach/index.html",
+    "assets/footer.css",
+    "assets/header.css",
+    "assets/header.js",
+    "assets/site.css",
+    "index.html",
+    "licenses/Inter-OFL.txt",
+    "licenses/SpaceMono-OFL.txt",
+    "services/index.html"
+  ],
+  "clean_build_matches": true,
+  "clean_export": "/var/folders/zz/145_sp9926l4ny9j3xz_1hch0000gn/T/ddcnorth-iteration-clean-af3qo4lf",
+  "prefix_preview": "/var/folders/zz/145_sp9926l4ny9j3xz_1hch0000gn/T/ddcnorth-iteration-preview-kf8vg_6n"
+}

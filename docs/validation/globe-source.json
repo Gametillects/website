@@ -1,0 +1,30 @@
+{
+  "baseline": "/var/folders/zz/145_sp9926l4ny9j3xz_1hch0000gn/T/ddcnorth-before-globe-gm_85ep6",
+  "bounded_html_diff": "only language navigation and footer-top link",
+  "main_content_preserved": true,
+  "protected_files_preserved": [
+    "site.css",
+    "config.js",
+    "section-redirect.js"
+  ],
+  "source_build_http_matches": [
+    "index.html",
+    "404.html",
+    ".nojekyll",
+    "licenses/Inter-OFL.txt",
+    "licenses/SpaceMono-OFL.txt",
+    "approach/index.html",
+    "about/index.html",
+    "fr/index.html",
+    "assets/header.js",
+    "assets/config.js",
+    "assets/section-redirect.js",
+    "assets/site.css",
+    "assets/header.css",
+    "assets/footer.css",
+    "services/index.html"
+  ],
+  "clean_build": "/var/folders/zz/145_sp9926l4ny9j3xz_1hch0000gn/T/ddcnorth-globe-clean-j14dj5xa",
+  "prefix_preview": "/var/folders/zz/145_sp9926l4ny9j3xz_1hch0000gn/T/ddcnorth-globe-prefix-kqe5r7da",
+  "syntax_whitespace": "PASS"
+}

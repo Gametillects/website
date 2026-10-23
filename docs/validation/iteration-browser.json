@@ -1,0 +1,1584 @@
+{
+  "layouts": [
+    {
+      "label": "home-desktop",
+      "contentHeight": 811.578125,
+      "current": [
+        "DDCNorth home"
+      ],
+      "documentHeight": 900,
+      "emptyArticles": 0,
+      "fonts": "loaded",
+      "footer": {
+        "height": 153.1875,
+        "top": 658.390625,
+        "width": 1440
+      },
+      "h1Count": 1,
+      "header": {
+        "height": 84,
+        "top": 0,
+        "width": 1440
+      },
+      "hero": {
+        "height": 432,
+        "top": 84,
+        "width": 1200
+      },
+      "overflow": false,
+      "overview": {
+        "height": 142.390625,
+        "top": 516,
+        "width": 1200
+      },
+      "paragraphs": [
+        {
+          "text": "Good ideas need a clear way forward.",
+          "words": 7
+        },
+        {
+          "text": "Define the question and the next step.",
+          "words": 7
+        },
+        {
+          "text": "Turn information into a clear picture.",
+          "words": 6
+        },
+        {
+          "text": "Make everyday work simpler.",
+          "words": 4
+        }
+      ],
+      "processColumns": 0,
+      "profileColumns": 0,
+      "search": {
+        "button": {
+          "height": 44,
+          "top": 20.5,
+          "width": 44
+        },
+        "font": "12px",
+        "input": {
+          "height": 44,
+          "top": 20.5,
+          "width": 126
+        }
+      },
+      "sectionPadding": [
+        {
+          "bottom": "44px",
+          "class": "hero wrap",
+          "top": "44px"
+        }
+      ],
+      "url": "http://localhost:8000/",
+      "viewport": {
+        "height": 900,
+        "width": 1440
+      }
+    },
+    {
+      "label": "services-desktop",
+      "contentHeight": 924.9375,
+      "current": [
+        "Services"
+      ],
+      "documentHeight": 925,
+      "emptyArticles": 0,
+      "fonts": "loaded",
+      "footer": {
+        "height": 153.1875,
+        "top": 771.75,
+        "width": 1425
+      },
+      "h1Count": 1,
+      "header": {
+        "height": 84,
+        "top": 0,
+        "width": 1425
+      },
+      "hero": null,
+      "overflow": false,
+      "overview": null,
+      "paragraphs": [
+        {
+          "text": "Our services",
+          "words": 2
+        },
+        {
+          "text": "From the first question to a working solution. We help make the next step clear.",
+          "words": 15
+        },
+        {
+          "text": "Get clear on the problem before choosing a solution. We map the work, agree on priorities, and define a practical scope.",
+          "words": 21
+        },
+        {
+          "text": "A project brief, a simpler process, or a roadmap your team can act on.",
+          "words": 14
+        },
+        {
+          "text": "Bring scattered information into a useful view. We organize and analyze data so your team can see patterns and make informed decisions.",
+          "words": 22
+        },
+        {
+          "text": "A sector scan, a focused dashboard, or a report that makes the findings clear.",
+          "words": 14
+        },
+        {
+          "text": "Turn a defined need into a working tool. We connect platforms and build straightforward websites, workflows, and integrations that fit how your team works.",
+          "words": 24
+        },
+        {
+          "text": "A quoting workflow, an internal tool, or connected systems that reduce repetitive work.",
+          "words": 13
+        }
+      ],
+      "processColumns": 0,
+      "profileColumns": 0,
+      "search": {
+        "button": {
+          "height": 44,
+          "top": 20.5,
+          "width": 44
+        },
+        "font": "12px",
+        "input": {
+          "height": 44,
+          "top": 20.5,
+          "width": 126
+        }
+      },
+      "sectionPadding": [
+        {
+          "bottom": "56px",
+          "class": "services section wrap",
+          "top": "52px"
+        }
+      ],
+      "url": "http://localhost:8000/services/",
+      "viewport": {
+        "height": 900,
+        "width": 1440
+      }
+    },
+    {
+      "label": "approach-desktop",
+      "contentHeight": 799.9375,
+      "current": [
+        "Our approach"
+      ],
+      "documentHeight": 900,
+      "emptyArticles": 0,
+      "fonts": "loaded",
+      "footer": {
+        "height": 153.1875,
+        "top": 646.75,
+        "width": 1440
+      },
+      "h1Count": 1,
+      "header": {
+        "height": 84,
+        "top": 0,
+        "width": 1440
+      },
+      "hero": null,
+      "overflow": false,
+      "overview": null,
+      "paragraphs": [
+        {
+          "text": "Our approach",
+          "words": 2
+        },
+        {
+          "text": "Start with the problem. Agree on a path. Build something your team can use.",
+          "words": 14
+        },
+        {
+          "text": "01 / Discover",
+          "words": 3
+        },
+        {
+          "text": "We listen to your team, understand how the work happens, and define what a useful outcome looks like.",
+          "words": 18
+        },
+        {
+          "text": "A shared understanding of the problem.",
+          "words": 6
+        },
+        {
+          "text": "02 / Develop",
+          "words": 3
+        },
+        {
+          "text": "We connect the information, weigh the options, and agree on a focused scope before moving into the build.",
+          "words": 18
+        },
+        {
+          "text": "A practical plan for the next step.",
+          "words": 7
+        },
+        {
+          "text": "03 / Deliver",
+          "words": 3
+        },
+        {
+          "text": "We build with your feedback, then hand over the work with the knowledge your team needs to use it.",
+          "words": 19
+        },
+        {
+          "text": "Useful work, ready for your team.",
+          "words": 6
+        }
+      ],
+      "processColumns": 3,
+      "profileColumns": 0,
+      "search": {
+        "button": {
+          "height": 44,
+          "top": 20.5,
+          "width": 44
+        },
+        "font": "12px",
+        "input": {
+          "height": 44,
+          "top": 20.5,
+          "width": 126
+        }
+      },
+      "sectionPadding": [
+        {
+          "bottom": "56px",
+          "class": "approach section wrap",
+          "top": "52px"
+        }
+      ],
+      "url": "http://localhost:8000/approach/",
+      "viewport": {
+        "height": 900,
+        "width": 1440
+      }
+    },
+    {
+      "label": "about-desktop",
+      "contentHeight": 814.125,
+      "current": [
+        "About us"
+      ],
+      "documentHeight": 900,
+      "emptyArticles": 0,
+      "fonts": "loaded",
+      "footer": {
+        "height": 153.1875,
+        "top": 660.9375,
+        "width": 1440
+      },
+      "h1Count": 1,
+      "header": {
+        "height": 84,
+        "top": 0,
+        "width": 1440
+      },
+      "hero": null,
+      "overflow": false,
+      "overview": null,
+      "paragraphs": [
+        {
+          "text": "About us",
+          "words": 2
+        },
+        {
+          "text": "We’re three founders in Prince George, bringing planning, data, and software together to make complex work easier.",
+          "words": 17
+        },
+        {
+          "text": "Strategy & relationships",
+          "words": 3
+        },
+        {
+          "text": "Co-founder",
+          "words": 1
+        },
+        {
+          "text": "Client relationships, sector networks, and innovation strategy, with a background in international development and evaluation.",
+          "words": 15
+        },
+        {
+          "text": "Technical direction",
+          "words": 2
+        },
+        {
+          "text": "Co-founder · Technical lead",
+          "words": 4
+        },
+        {
+          "text": "Working knowledge of health systems and the data that runs through them.",
+          "words": 12
+        },
+        {
+          "text": "Implementation & product",
+          "words": 3
+        },
+        {
+          "text": "Co-founder",
+          "words": 1
+        },
+        {
+          "text": "The platforms, integrations, and delivery that turn a scoped answer into a working one.",
+          "words": 14
+        }
+      ],
+      "processColumns": 0,
+      "profileColumns": 3,
+      "search": {
+        "button": {
+          "height": 44,
+          "top": 20.5,
+          "width": 44
+        },
+        "font": "12px",
+        "input": {
+          "height": 44,
+          "top": 20.5,
+          "width": 126
+        }
+      },
+      "sectionPadding": [
+        {
+          "bottom": "56px",
+          "class": "about section wrap",
+          "top": "52px"
+        }
+      ],
+      "url": "http://localhost:8000/about/",
+      "viewport": {
+        "height": 900,
+        "width": 1440
+      }
+    },
+    {
+      "label": "home-mobile",
+      "contentHeight": 1218.953125,
+      "current": [
+        "DDCNorth home"
+      ],
+      "documentHeight": 1219,
+      "emptyArticles": 0,
+      "fonts": "loaded",
+      "footer": {
+        "height": 239.6875,
+        "top": 979.265625,
+        "width": 375
+      },
+      "h1Count": 1,
+      "header": {
+        "height": 80,
+        "top": 0,
+        "width": 375
+      },
+      "hero": {
+        "height": 601.09375,
+        "top": 80,
+        "width": 335
+      },
+      "overflow": false,
+      "overview": {
+        "height": 298.171875,
+        "top": 681.09375,
+        "width": 335
+      },
+      "paragraphs": [
+        {
+          "text": "Good ideas need a clear way forward.",
+          "words": 7
+        },
+        {
+          "text": "Define the question and the next step.",
+          "words": 7
+        },
+        {
+          "text": "Turn information into a clear picture.",
+          "words": 6
+        },
+        {
+          "text": "Make everyday work simpler.",
+          "words": 4
+        }
+      ],
+      "processColumns": 0,
+      "profileColumns": 0,
+      "search": {
+        "button": {
+          "height": 0,
+          "top": 0,
+          "width": 0
+        },
+        "font": "16px",
+        "input": {
+          "height": 0,
+          "top": 0,
+          "width": 0
+        }
+      },
+      "sectionPadding": [
+        {
+          "bottom": "32px",
+          "class": "hero wrap",
+          "top": "32px"
+        }
+      ],
+      "url": "http://localhost:8000/",
+      "viewport": {
+        "height": 844,
+        "width": 390
+      }
+    },
+    {
+      "label": "services-mobile",
+      "contentHeight": 998.890625,
+      "current": [
+        "Services"
+      ],
+      "documentHeight": 999,
+      "emptyArticles": 0,
+      "fonts": "loaded",
+      "footer": {
+        "height": 239.6875,
+        "top": 759.203125,
+        "width": 375
+      },
+      "h1Count": 1,
+      "header": {
+        "height": 80,
+        "top": 0,
+        "width": 375
+      },
+      "hero": null,
+      "overflow": false,
+      "overview": null,
+      "paragraphs": [
+        {
+          "text": "Our services",
+          "words": 2
+        },
+        {
+          "text": "From the first question to a working solution. We help make the next step clear.",
+          "words": 15
+        },
+        {
+          "text": "Get clear on the problem before choosing a solution. We map the work, agree on priorities, and define a practical scope.",
+          "words": 21
+        },
+        {
+          "text": "A project brief, a simpler process, or a roadmap your team can act on.",
+          "words": 14
+        },
+        {
+          "text": "Bring scattered information into a useful view. We organize and analyze data so your team can see patterns and make informed decisions.",
+          "words": 22
+        },
+        {
+          "text": "A sector scan, a focused dashboard, or a report that makes the findings clear.",
+          "words": 14
+        },
+        {
+          "text": "Turn a defined need into a working tool. We connect platforms and build straightforward websites, workflows, and integrations that fit how your team works.",
+          "words": 24
+        },
+        {
+          "text": "A quoting workflow, an internal tool, or connected systems that reduce repetitive work.",
+          "words": 13
+        }
+      ],
+      "processColumns": 0,
+      "profileColumns": 0,
+      "search": {
+        "button": {
+          "height": 0,
+          "top": 0,
+          "width": 0
+        },
+        "font": "16px",
+        "input": {
+          "height": 0,
+          "top": 0,
+          "width": 0
+        }
+      },
+      "sectionPadding": [
+        {
+          "bottom": "40px",
+          "class": "services section wrap",
+          "top": "36px"
+        }
+      ],
+      "url": "http://localhost:8000/services/",
+      "viewport": {
+        "height": 844,
+        "width": 390
+      }
+    },
+    {
+      "label": "approach-mobile",
+      "contentHeight": 1313.25,
+      "current": [
+        "Our approach"
+      ],
+      "documentHeight": 1313,
+      "emptyArticles": 0,
+      "fonts": "loaded",
+      "footer": {
+        "height": 239.6875,
+        "top": 1073.5625,
+        "width": 375
+      },
+      "h1Count": 1,
+      "header": {
+        "height": 80,
+        "top": 0,
+        "width": 375
+      },
+      "hero": null,
+      "overflow": false,
+      "overview": null,
+      "paragraphs": [
+        {
+          "text": "Our approach",
+          "words": 2
+        },
+        {
+          "text": "Start with the problem. Agree on a path. Build something your team can use.",
+          "words": 14
+        },
+        {
+          "text": "01 / Discover",
+          "words": 3
+        },
+        {
+          "text": "We listen to your team, understand how the work happens, and define what a useful outcome looks like.",
+          "words": 18
+        },
+        {
+          "text": "A shared understanding of the problem.",
+          "words": 6
+        },
+        {
+          "text": "02 / Develop",
+          "words": 3
+        },
+        {
+          "text": "We connect the information, weigh the options, and agree on a focused scope before moving into the build.",
+          "words": 18
+        },
+        {
+          "text": "A practical plan for the next step.",
+          "words": 7
+        },
+        {
+          "text": "03 / Deliver",
+          "words": 3
+        },
+        {
+          "text": "We build with your feedback, then hand over the work with the knowledge your team needs to use it.",
+          "words": 19
+        },
+        {
+          "text": "Useful work, ready for your team.",
+          "words": 6
+        }
+      ],
+      "processColumns": 3,
+      "profileColumns": 0,
+      "search": {
+        "button": {
+          "height": 0,
+          "top": 0,
+          "width": 0
+        },
+        "font": "16px",
+        "input": {
+          "height": 0,
+          "top": 0,
+          "width": 0
+        }
+      },
+      "sectionPadding": [
+        {
+          "bottom": "40px",
+          "class": "approach section wrap",
+          "top": "36px"
+        }
+      ],
+      "url": "http://localhost:8000/approach/",
+      "viewport": {
+        "height": 844,
+        "width": 390
+      }
+    },
+    {
+      "label": "about-mobile",
+      "contentHeight": 1257.984375,
+      "current": [
+        "About us"
+      ],
+      "documentHeight": 1258,
+      "emptyArticles": 0,
+      "fonts": "loaded",
+      "footer": {
+        "height": 239.6875,
+        "top": 1018.296875,
+        "width": 375
+      },
+      "h1Count": 1,
+      "header": {
+        "height": 80,
+        "top": 0,
+        "width": 375
+      },
+      "hero": null,
+      "overflow": false,
+      "overview": null,
+      "paragraphs": [
+        {
+          "text": "About us",
+          "words": 2
+        },
+        {
+          "text": "We’re three founders in Prince George, bringing planning, data, and software together to make complex work easier.",
+          "words": 17
+        },
+        {
+          "text": "Strategy & relationships",
+          "words": 3
+        },
+        {
+          "text": "Co-founder",
+          "words": 1
+        },
+        {
+          "text": "Client relationships, sector networks, and innovation strategy, with a background in international development and evaluation.",
+          "words": 15
+        },
+        {
+          "text": "Technical direction",
+          "words": 2
+        },
+        {
+          "text": "Co-founder · Technical lead",
+          "words": 4
+        },
+        {
+          "text": "Working knowledge of health systems and the data that runs through them.",
+          "words": 12
+        },
+        {
+          "text": "Implementation & product",
+          "words": 3
+        },
+        {
+          "text": "Co-founder",
+          "words": 1
+        },
+        {
+          "text": "The platforms, integrations, and delivery that turn a scoped answer into a working one.",
+          "words": 14
+        }
+      ],
+      "processColumns": 0,
+      "profileColumns": 3,
+      "search": {
+        "button": {
+          "height": 0,
+          "top": 0,
+          "width": 0
+        },
+        "font": "16px",
+        "input": {
+          "height": 0,
+          "top": 0,
+          "width": 0
+        }
+      },
+      "sectionPadding": [
+        {
+          "bottom": "40px",
+          "class": "about section wrap",
+          "top": "36px"
+        }
+      ],
+      "url": "http://localhost:8000/about/",
+      "viewport": {
+        "height": 844,
+        "width": 390
+      }
+    },
+    {
+      "label": "about-mobile-menu",
+      "contentHeight": 1552.984375,
+      "current": [
+        "About us"
+      ],
+      "documentHeight": 1553,
+      "emptyArticles": 0,
+      "fonts": "loaded",
+      "footer": {
+        "height": 239.6875,
+        "top": 1313.296875,
+        "width": 375
+      },
+      "h1Count": 1,
+      "header": {
+        "height": 375,
+        "top": 0,
+        "width": 375
+      },
+      "hero": null,
+      "overflow": false,
+      "overview": null,
+      "paragraphs": [
+        {
+          "text": "About us",
+          "words": 2
+        },
+        {
+          "text": "We’re three founders in Prince George, bringing planning, data, and software together to make complex work easier.",
+          "words": 17
+        },
+        {
+          "text": "Strategy & relationships",
+          "words": 3
+        },
+        {
+          "text": "Co-founder",
+          "words": 1
+        },
+        {
+          "text": "Client relationships, sector networks, and innovation strategy, with a background in international development and evaluation.",
+          "words": 15
+        },
+        {
+          "text": "Technical direction",
+          "words": 2
+        },
+        {
+          "text": "Co-founder · Technical lead",
+          "words": 4
+        },
+        {
+          "text": "Working knowledge of health systems and the data that runs through them.",
+          "words": 12
+        },
+        {
+          "text": "Implementation & product",
+          "words": 3
+        },
+        {
+          "text": "Co-founder",
+          "words": 1
+        },
+        {
+          "text": "The platforms, integrations, and delivery that turn a scoped answer into a working one.",
+          "words": 14
+        }
+      ],
+      "processColumns": 0,
+      "profileColumns": 3,
+      "search": {
+        "button": {
+          "height": 48,
+          "top": 239,
+          "width": 48
+        },
+        "font": "16px",
+        "input": {
+          "height": 48,
+          "top": 239,
+          "width": 287
+        }
+      },
+      "sectionPadding": [
+        {
+          "bottom": "40px",
+          "class": "about section wrap",
+          "top": "36px"
+        }
+      ],
+      "url": "http://localhost:8000/about/",
+      "viewport": {
+        "height": 844,
+        "width": 390
+      }
+    },
+    {
+      "label": "baseline-home-desktop",
+      "contentHeight": 1094.265625,
+      "current": [],
+      "documentHeight": 1094,
+      "emptyArticles": 0,
+      "fonts": "loaded",
+      "footer": {
+        "height": 305.078125,
+        "top": 789.1875,
+        "width": 1425
+      },
+      "h1Count": 1,
+      "header": {
+        "height": 154.1875,
+        "top": 0,
+        "width": 1425
+      },
+      "hero": {
+        "height": 635,
+        "top": 154.1875,
+        "width": 1313
+      },
+      "overflow": false,
+      "overview": null,
+      "paragraphs": [
+        {
+          "text": "Good ideas need a clear way forward.",
+          "words": 7
+        }
+      ],
+      "processColumns": 0,
+      "profileColumns": 0,
+      "search": {
+        "button": {
+          "height": 44,
+          "top": 26,
+          "width": 44
+        },
+        "font": "13px",
+        "input": {
+          "height": 44,
+          "top": 26,
+          "width": 206
+        }
+      },
+      "sectionPadding": [
+        {
+          "bottom": "48px",
+          "class": "hero wrap",
+          "top": "52px"
+        }
+      ],
+      "url": "http://localhost:51704/before/",
+      "viewport": {
+        "height": 900,
+        "width": 1440
+      }
+    },
+    {
+      "label": "home-breakpoint",
+      "contentHeight": 804.984375,
+      "current": [
+        "DDCNorth home"
+      ],
+      "documentHeight": 900,
+      "emptyArticles": 0,
+      "fonts": "loaded",
+      "footer": {
+        "height": 153.1875,
+        "top": 651.796875,
+        "width": 900
+      },
+      "h1Count": 1,
+      "header": {
+        "height": 80,
+        "top": 0,
+        "width": 900
+      },
+      "hero": {
+        "height": 432,
+        "top": 80,
+        "width": 836
+      },
+      "overflow": false,
+      "overview": {
+        "height": 139.796875,
+        "top": 512,
+        "width": 836
+      },
+      "paragraphs": [
+        {
+          "text": "Good ideas need a clear way forward.",
+          "words": 7
+        },
+        {
+          "text": "Define the question and the next step.",
+          "words": 7
+        },
+        {
+          "text": "Turn information into a clear picture.",
+          "words": 6
+        },
+        {
+          "text": "Make everyday work simpler.",
+          "words": 4
+        }
+      ],
+      "processColumns": 0,
+      "profileColumns": 0,
+      "search": {
+        "button": {
+          "height": 0,
+          "top": 0,
+          "width": 0
+        },
+        "font": "16px",
+        "input": {
+          "height": 0,
+          "top": 0,
+          "width": 0
+        }
+      },
+      "sectionPadding": [
+        {
+          "bottom": "44px",
+          "class": "hero wrap",
+          "top": "44px"
+        }
+      ],
+      "url": "http://localhost:8000/",
+      "viewport": {
+        "height": 900,
+        "width": 900
+      }
+    },
+    {
+      "label": "services-breakpoint",
+      "contentHeight": 887,
+      "current": [
+        "Services"
+      ],
+      "documentHeight": 900,
+      "emptyArticles": 0,
+      "fonts": "loaded",
+      "footer": {
+        "height": 153.1875,
+        "top": 733.8125,
+        "width": 900
+      },
+      "h1Count": 1,
+      "header": {
+        "height": 80,
+        "top": 0,
+        "width": 900
+      },
+      "hero": null,
+      "overflow": false,
+      "overview": null,
+      "paragraphs": [
+        {
+          "text": "Our services",
+          "words": 2
+        },
+        {
+          "text": "From the first question to a working solution. We help make the next step clear.",
+          "words": 15
+        },
+        {
+          "text": "Get clear on the problem before choosing a solution. We map the work, agree on priorities, and define a practical scope.",
+          "words": 21
+        },
+        {
+          "text": "A project brief, a simpler process, or a roadmap your team can act on.",
+          "words": 14
+        },
+        {
+          "text": "Bring scattered information into a useful view. We organize and analyze data so your team can see patterns and make informed decisions.",
+          "words": 22
+        },
+        {
+          "text": "A sector scan, a focused dashboard, or a report that makes the findings clear.",
+          "words": 14
+        },
+        {
+          "text": "Turn a defined need into a working tool. We connect platforms and build straightforward websites, workflows, and integrations that fit how your team works.",
+          "words": 24
+        },
+        {
+          "text": "A quoting workflow, an internal tool, or connected systems that reduce repetitive work.",
+          "words": 13
+        }
+      ],
+      "processColumns": 0,
+      "profileColumns": 0,
+      "search": {
+        "button": {
+          "height": 0,
+          "top": 0,
+          "width": 0
+        },
+        "font": "16px",
+        "input": {
+          "height": 0,
+          "top": 0,
+          "width": 0
+        }
+      },
+      "sectionPadding": [
+        {
+          "bottom": "56px",
+          "class": "services section wrap",
+          "top": "52px"
+        }
+      ],
+      "url": "http://localhost:8000/services/",
+      "viewport": {
+        "height": 900,
+        "width": 900
+      }
+    },
+    {
+      "label": "approach-breakpoint",
+      "contentHeight": 781.578125,
+      "current": [
+        "Our approach"
+      ],
+      "documentHeight": 900,
+      "emptyArticles": 0,
+      "fonts": "loaded",
+      "footer": {
+        "height": 153.1875,
+        "top": 628.390625,
+        "width": 900
+      },
+      "h1Count": 1,
+      "header": {
+        "height": 80,
+        "top": 0,
+        "width": 900
+      },
+      "hero": null,
+      "overflow": false,
+      "overview": null,
+      "paragraphs": [
+        {
+          "text": "Our approach",
+          "words": 2
+        },
+        {
+          "text": "Start with the problem. Agree on a path. Build something your team can use.",
+          "words": 14
+        },
+        {
+          "text": "01 / Discover",
+          "words": 3
+        },
+        {
+          "text": "We listen to your team, understand how the work happens, and define what a useful outcome looks like.",
+          "words": 18
+        },
+        {
+          "text": "A shared understanding of the problem.",
+          "words": 6
+        },
+        {
+          "text": "02 / Develop",
+          "words": 3
+        },
+        {
+          "text": "We connect the information, weigh the options, and agree on a focused scope before moving into the build.",
+          "words": 18
+        },
+        {
+          "text": "A practical plan for the next step.",
+          "words": 7
+        },
+        {
+          "text": "03 / Deliver",
+          "words": 3
+        },
+        {
+          "text": "We build with your feedback, then hand over the work with the knowledge your team needs to use it.",
+          "words": 19
+        },
+        {
+          "text": "Useful work, ready for your team.",
+          "words": 6
+        }
+      ],
+      "processColumns": 3,
+      "profileColumns": 0,
+      "search": {
+        "button": {
+          "height": 0,
+          "top": 0,
+          "width": 0
+        },
+        "font": "16px",
+        "input": {
+          "height": 0,
+          "top": 0,
+          "width": 0
+        }
+      },
+      "sectionPadding": [
+        {
+          "bottom": "56px",
+          "class": "approach section wrap",
+          "top": "52px"
+        }
+      ],
+      "url": "http://localhost:8000/approach/",
+      "viewport": {
+        "height": 900,
+        "width": 900
+      }
+    },
+    {
+      "label": "about-breakpoint",
+      "contentHeight": 792.171875,
+      "current": [
+        "About us"
+      ],
+      "documentHeight": 900,
+      "emptyArticles": 0,
+      "fonts": "loaded",
+      "footer": {
+        "height": 153.1875,
+        "top": 638.984375,
+        "width": 900
+      },
+      "h1Count": 1,
+      "header": {
+        "height": 80,
+        "top": 0,
+        "width": 900
+      },
+      "hero": null,
+      "overflow": false,
+      "overview": null,
+      "paragraphs": [
+        {
+          "text": "About us",
+          "words": 2
+        },
+        {
+          "text": "We’re three founders in Prince George, bringing planning, data, and software together to make complex work easier.",
+          "words": 17
+        },
+        {
+          "text": "Strategy & relationships",
+          "words": 3
+        },
+        {
+          "text": "Co-founder",
+          "words": 1
+        },
+        {
+          "text": "Client relationships, sector networks, and innovation strategy, with a background in international development and evaluation.",
+          "words": 15
+        },
+        {
+          "text": "Technical direction",
+          "words": 2
+        },
+        {
+          "text": "Co-founder · Technical lead",
+          "words": 4
+        },
+        {
+          "text": "Working knowledge of health systems and the data that runs through them.",
+          "words": 12
+        },
+        {
+          "text": "Implementation & product",
+          "words": 3
+        },
+        {
+          "text": "Co-founder",
+          "words": 1
+        },
+        {
+          "text": "The platforms, integrations, and delivery that turn a scoped answer into a working one.",
+          "words": 14
+        }
+      ],
+      "processColumns": 0,
+      "profileColumns": 3,
+      "search": {
+        "button": {
+          "height": 0,
+          "top": 0,
+          "width": 0
+        },
+        "font": "16px",
+        "input": {
+          "height": 0,
+          "top": 0,
+          "width": 0
+        }
+      },
+      "sectionPadding": [
+        {
+          "bottom": "56px",
+          "class": "about section wrap",
+          "top": "52px"
+        }
+      ],
+      "url": "http://localhost:8000/about/",
+      "viewport": {
+        "height": 900,
+        "width": 900
+      }
+    },
+    {
+      "label": "baseline-about-desktop",
+      "contentHeight": 990.84375,
+      "current": [],
+      "documentHeight": 991,
+      "emptyArticles": 0,
+      "fonts": "loaded",
+      "footer": {
+        "height": 305.078125,
+        "top": 685.765625,
+        "width": 1425
+      },
+      "h1Count": 1,
+      "header": {
+        "height": 154.1875,
+        "top": 0,
+        "width": 1425
+      },
+      "hero": null,
+      "overflow": false,
+      "overview": null,
+      "paragraphs": [
+        {
+          "text": "03 / The people",
+          "words": 4
+        },
+        {
+          "text": "DDCNorth brings Amir, Ahmad, and Fryderyk together around planning, data, and practical solutions. We’re building a company around a simple idea: complex work becomes easier when people, information, and tools connect.",
+          "words": 31
+        }
+      ],
+      "processColumns": 0,
+      "profileColumns": 0,
+      "search": {
+        "button": {
+          "height": 44,
+          "top": 26,
+          "width": 44
+        },
+        "font": "13px",
+        "input": {
+          "height": 44,
+          "top": 26,
+          "width": 206
+        }
+      },
+      "sectionPadding": [
+        {
+          "bottom": "105px",
+          "class": "about section wrap",
+          "top": "105px"
+        }
+      ],
+      "url": "http://localhost:51704/before/about/",
+      "viewport": {
+        "height": 900,
+        "width": 1440
+      }
+    }
+  ],
+  "interactions": {
+    "searchKeyboardFocus": {
+      "outline": "solid",
+      "text": "Data & insightData organization, analysis, and visualization.",
+      "width": "2px"
+    },
+    "searchEscapeFromResult": {
+      "focus": "site-search-input",
+      "hidden": true
+    },
+    "noMatch": "No matching results. Try “data”, “websites”, or “contact”.",
+    "emptySearch": "",
+    "mobileEscape": "false",
+    "mobileDropdown": true,
+    "mobileServiceNavigation": {
+      "hash": "#service-data",
+      "menu": "false",
+      "open": [
+        "service-data"
+      ],
+      "path": "/services/"
+    },
+    "exclusiveAccordion": [
+      "service-digital"
+    ],
+    "searchEnter": {
+      "hash": "#service-planning",
+      "menu": "false",
+      "open": [
+        "service-planning"
+      ]
+    },
+    "searchSubmit": {
+      "hash": "#service-data",
+      "open": [
+        "service-data"
+      ]
+    },
+    "sameHashServiceLink": {
+      "dropdownHidden": true,
+      "hash": "#service-data",
+      "open": [
+        "service-data"
+      ]
+    },
+    "reloadedServiceFragment": {
+      "hash": "#service-data",
+      "open": [
+        "service-data"
+      ]
+    },
+    "dropdownEscape": {
+      "focused": "services-trigger",
+      "hidden": true,
+      "outline": "solid"
+    },
+    "legacyRoutes": [
+      {
+        "fragment": "services",
+        "hash": "",
+        "open": [
+          "service-planning"
+        ],
+        "path": "/services/"
+      },
+      {
+        "fragment": "approach",
+        "hash": "",
+        "open": [],
+        "path": "/approach/"
+      },
+      {
+        "fragment": "about",
+        "hash": "",
+        "open": [],
+        "path": "/about/"
+      },
+      {
+        "fragment": "service-planning",
+        "hash": "#service-planning",
+        "open": [
+          "service-planning"
+        ],
+        "path": "/services/"
+      },
+      {
+        "fragment": "service-data",
+        "hash": "#service-data",
+        "open": [
+          "service-data"
+        ],
+        "path": "/services/"
+      },
+      {
+        "fragment": "service-digital",
+        "hash": "#service-digital",
+        "open": [
+          "service-digital"
+        ],
+        "path": "/services/"
+      }
+    ],
+    "projectPrefixSearch": {
+      "hash": "#service-data",
+      "open": [
+        "service-data"
+      ],
+      "path": "/website/services/"
+    },
+    "breakpoint": [
+      {
+        "clientWidth": 900,
+        "menuVisible": true,
+        "path": "/",
+        "scrollWidth": 900
+      },
+      {
+        "clientWidth": 900,
+        "menuVisible": true,
+        "path": "/services/",
+        "scrollWidth": 900
+      },
+      {
+        "clientWidth": 900,
+        "menuVisible": true,
+        "path": "/approach/",
+        "scrollWidth": 900
+      },
+      {
+        "clientWidth": 900,
+        "menuVisible": true,
+        "path": "/about/",
+        "scrollWidth": 900
+      }
+    ],
+    "breakpointMenu": {
+      "clientWidth": 885,
+      "menu": "true",
+      "scrollWidth": 885
+    },
+    "breakpointNavigation": {
+      "menu": "false",
+      "path": "/approach/"
+    },
+    "keyboardResultNavigation": {
+      "hash": "#service-digital",
+      "open": [
+        "service-digital"
+      ],
+      "path": "/services/"
+    },
+    "keyboardDisclosure": {
+      "open": [
+        "service-planning"
+      ],
+      "outline": "solid",
+      "outlineWidth": "2px"
+    }
+  },
+  "screenshots": [
+    "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/iteration-home-desktop.png",
+    "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/iteration-services-desktop.png",
+    "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/iteration-approach-desktop.png",
+    "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/iteration-about-desktop.png",
+    "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/iteration-home-mobile.png",
+    "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/iteration-services-mobile.png",
+    "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/iteration-approach-mobile.png",
+    "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/iteration-about-mobile.png"
+  ],
+  "consoleErrors": [],
+  "networkErrors": {
+    "cursor": 975,
+    "events": [],
+    "hasMore": false,
+    "truncated": true
+  },
+  "viewportOverflow": [
+    {
+      "clientWidth": 1440,
+      "fonts": "loaded",
+      "path": "/",
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    {
+      "clientWidth": 1425,
+      "fonts": "loaded",
+      "path": "/services/",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "clientWidth": 1440,
+      "fonts": "loaded",
+      "path": "/approach/",
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    {
+      "clientWidth": 1440,
+      "fonts": "loaded",
+      "path": "/about/",
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    {
+      "clientWidth": 375,
+      "fonts": "loaded",
+      "path": "/",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "clientWidth": 375,
+      "fonts": "loaded",
+      "path": "/services/",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "clientWidth": 375,
+      "fonts": "loaded",
+      "path": "/approach/",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "clientWidth": 375,
+      "fonts": "loaded",
+      "path": "/about/",
+      "scrollWidth": 375,
+      "width": 390
+    }
+  ],
+  "networkPerPage": [
+    {
+      "page": "home",
+      "width": 1440,
+      "truncated": false,
+      "hasMore": false,
+      "errors": []
+    },
+    {
+      "page": "services",
+      "width": 1440,
+      "truncated": false,
+      "hasMore": false,
+      "errors": []
+    },
+    {
+      "page": "approach",
+      "width": 1440,
+      "truncated": false,
+      "hasMore": false,
+      "errors": []
+    },
+    {
+      "page": "about",
+      "width": 1440,
+      "truncated": false,
+      "hasMore": false,
+      "errors": []
+    },
+    {
+      "page": "home",
+      "width": 390,
+      "truncated": false,
+      "hasMore": false,
+      "errors": []
+    },
+    {
+      "page": "services",
+      "width": 390,
+      "truncated": false,
+      "hasMore": false,
+      "errors": []
+    },
+    {
+      "page": "approach",
+      "width": 390,
+      "truncated": false,
+      "hasMore": false,
+      "errors": []
+    },
+    {
+      "page": "about",
+      "width": 390,
+      "truncated": false,
+      "hasMore": false,
+      "errors": []
+    }
+  ],
+  "visualReview": {
+    "desktop": "Compared the old split About layout with the new full-width introduction and three substantive profiles. Home retains the same headline and brand artwork, with a smaller art panel and three direct service destinations. Desktop service examples use paired content columns; process steps use three equally weighted columns.",
+    "mobile": "Inspected all four full-page captures. Hero artwork, service rows, process steps and profiles stack within the content width. No text overlaps or empty decorative columns. Shared footer remains concise.",
+    "baseline": "The previous desktop home had a 154px two-row header, 635px hero and 305px footer; the iteration measures 84px, 432px and 153px respectively."
+  }
+}

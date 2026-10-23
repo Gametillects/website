@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "exactParagraphRemoval": true,
+  "buildHttpEqual": true,
+  "otherProductionUnchanged": true,
+  "layouts": [
+    {
+      "artwork": true,
+      "cta": "services/",
+      "description": "Good ideas need a clear way forward.",
+      "dot": 0,
+      "dropdownHeading": "Planning. Data. Digital.",
+      "eyebrow": 0,
+      "headline": "Built for\nwhat’s next.",
+      "noOverflow": true,
+      "width": 1395
+    },
+    {
+      "artwork": true,
+      "cta": "services/",
+      "description": "Good ideas need a clear way forward.",
+      "dot": 0,
+      "dropdownHeading": "Planning. Data. Digital.",
+      "eyebrow": 0,
+      "headline": "Built for\nwhat’s next.",
+      "noOverflow": true,
+      "width": 390
+    }
+  ]
+}

@@ -16,3 +16,18 @@
 .page-title{font-size:clamp(36px,4vw,56px);line-height:1.09;letter-spacing:-.045em;margin:0}
 .section-heading .page-title{margin:28px 0 25px}
 @media(max-width:560px){.page-title{font-size:40px}.section-heading .page-title{margin-top:23px}}
+
+/* Close only the gaps left by removed numbered labels. */
+.section-heading .page-title{margin-top:0}
+.service-list{padding-top:0}
+.service-list summary{grid-template-columns:1fr 20px}
+.service-body{padding-left:0}
+.approach-heading{grid-template-columns:1.5fr 1fr}
+.approach-heading>p:last-child{grid-column:auto;max-width:360px}
+.step-top{justify-content:flex-end}
+.about-label{justify-content:center}
+.about-label img{margin-top:0}
+@media(max-width:800px){.approach-heading{grid-template-columns:1fr}}
+@media(max-width:560px){.about-label{display:none}.service-list summary{grid-template-columns:1fr 15px}}
+html[lang=fr] .hero h1{font-size:clamp(52px,6vw,88px)}
+@media(max-width:560px){html[lang=fr] .hero h1{font-size:clamp(52px,12vw,68px)}}

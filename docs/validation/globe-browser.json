@@ -1,0 +1,79 @@
+{
+  "interactions": {
+    "pointerOpen": {
+      "current": "English",
+      "open": true,
+      "options": "\n            English\n            Français\n          "
+    },
+    "escape": {
+      "focus": "SUMMARY",
+      "open": false
+    },
+    "outsideClick": false,
+    "focusOutside": {
+      "focus": "services-trigger",
+      "open": false
+    },
+    "selectFrench": {
+      "closed": true,
+      "lang": "fr",
+      "url": "http://localhost:8000/fr/"
+    },
+    "mobileMenu": {
+      "open": [
+        "service-data"
+      ],
+      "searchHidden": true,
+      "url": "http://localhost:8000/fr/#service-data"
+    },
+    "switchWithFragment": {
+      "closed": true,
+      "lang": "en",
+      "open": [
+        "service-data"
+      ],
+      "url": "http://localhost:8000/#service-data"
+    },
+    "prefixSwitch": {
+      "lang": "en",
+      "open": [
+        "service-data"
+      ],
+      "url": "http://localhost:51707/website/#service-data"
+    },
+    "noJavaScript": {
+      "nativeDisclosureOpened": true,
+      "englishURL": "http://localhost:8000/",
+      "frenchURL": "http://localhost:8000/fr/"
+    },
+    "noJavaScriptSwitch": {
+      "url": "http://localhost:8000/",
+      "lang": "en",
+      "closed": true
+    }
+  },
+  "layouts": [
+    {
+      "client": 390,
+      "dropdownLeft": 167.9765625,
+      "dropdownRight": 331.9765625,
+      "footer": "© 2026 DDCNorth\n\nNous joindre",
+      "lang": "fr",
+      "scroll": 390,
+      "width": 390
+    },
+    {
+      "client": 320,
+      "dropdownLeft": 104.640625,
+      "dropdownRight": 268.640625,
+      "lang": "en",
+      "scroll": 320,
+      "width": 320
+    }
+  ],
+  "screenshots": [
+    "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/globe-dropdown-desktop.png",
+    "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/globe-dropdown-mobile.png"
+  ],
+  "consoleErrors": []
+}

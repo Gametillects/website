@@ -1,0 +1,148 @@
+{
+  "layouts": [
+    {
+      "client": 1425,
+      "footer": 96,
+      "footerText": "© 2026 DDCNorth\n\nContact us\nBack to top\n↑",
+      "h1s": 1,
+      "scroll": 1425,
+      "sections": [
+        "hero",
+        "services",
+        "approach",
+        "about"
+      ],
+      "width": 1440
+    },
+    {
+      "client": 375,
+      "footer": 127.359375,
+      "scroll": 375,
+      "width": 390
+    },
+    {
+      "client": 390,
+      "footer": 127.359375,
+      "mobileEmulation": true,
+      "scroll": 390,
+      "width": 390
+    }
+  ],
+  "navigation": {
+    "cta": "http://localhost:8000/#services",
+    "approach": "http://localhost:8000/#approach",
+    "about": "http://localhost:8000/#about",
+    "footerFocus": {
+      "outline": "solid",
+      "text": "Back to top ↑"
+    },
+    "top": "http://localhost:8000/#top",
+    "resultEscape": {
+      "focus": "site-search-input",
+      "hidden": true
+    },
+    "noMatch": "No matching results. Try “data”, “websites”, or “contact”.",
+    "inputEscape": "",
+    "empty": "",
+    "search": {
+      "hash": "#service-data",
+      "open": [
+        "service-data"
+      ],
+      "path": "/"
+    },
+    "sameHash": {
+      "hash": "#service-data",
+      "open": [
+        "service-data"
+      ]
+    },
+    "reload": {
+      "hash": "#service-data",
+      "open": [
+        "service-data"
+      ]
+    },
+    "prefixSearch": {
+      "open": [
+        "service-planning"
+      ],
+      "url": "http://localhost:51705/website/#service-planning"
+    },
+    "mobileMenu": {
+      "expanded": "false",
+      "hash": "#approach"
+    },
+    "mobileSearch": {
+      "client": 375,
+      "hash": "#service-digital",
+      "open": [
+        "service-digital"
+      ],
+      "scroll": 375
+    }
+  },
+  "redirects": [
+    {
+      "from": "http://localhost:8000/services/",
+      "open": [
+        "service-planning"
+      ],
+      "url": "http://localhost:8000/#services"
+    },
+    {
+      "from": "http://localhost:8000/approach/",
+      "open": [
+        "service-planning"
+      ],
+      "url": "http://localhost:8000/#approach"
+    },
+    {
+      "from": "http://localhost:8000/about/",
+      "open": [
+        "service-planning"
+      ],
+      "url": "http://localhost:8000/#about"
+    },
+    {
+      "from": "http://localhost:8000/services/#service-digital",
+      "open": [
+        "service-digital"
+      ],
+      "url": "http://localhost:8000/#service-digital"
+    },
+    {
+      "from": "http://localhost:51705/website/services/",
+      "open": [
+        "service-planning"
+      ],
+      "url": "http://localhost:51705/website/#services"
+    },
+    {
+      "from": "http://localhost:51705/website/approach/",
+      "open": [
+        "service-planning"
+      ],
+      "url": "http://localhost:51705/website/#approach"
+    },
+    {
+      "from": "http://localhost:51705/website/about/",
+      "open": [
+        "service-planning"
+      ],
+      "url": "http://localhost:51705/website/#about"
+    },
+    {
+      "from": "http://localhost:51705/website/services/#service-digital",
+      "open": [
+        "service-digital"
+      ],
+      "url": "http://localhost:51705/website/#service-digital"
+    }
+  ],
+  "consoleErrors": [],
+  "screenshots": [
+    "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/one-page-footer-desktop.png",
+    "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/one-page-mobile.png"
+  ]
+}

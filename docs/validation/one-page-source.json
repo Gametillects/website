@@ -1,0 +1,40 @@
+{
+  "baseline": "/var/folders/zz/145_sp9926l4ny9j3xz_1hch0000gn/T/ddcnorth-before-one-page-a5pjcx3v",
+  "content_preserved": [
+    "hero (CTA anchor only)",
+    "Services (h2 only)",
+    "Our approach (h2 only)",
+    "About us (h2 only)",
+    "header (anchors only)",
+    "site/header CSS, fonts, logos, build, hosts, licenses and 404"
+  ],
+  "unique_ids": 18,
+  "home_heading_levels": [
+    "h1",
+    "h2",
+    "h2",
+    "h3",
+    "h3",
+    "h3",
+    "h2"
+  ],
+  "link_checks": 44,
+  "source_build_http_matches": [
+    "index.html",
+    "404.html",
+    "licenses/Inter-OFL.txt",
+    "licenses/SpaceMono-OFL.txt",
+    "approach/index.html",
+    "about/index.html",
+    "assets/header.js",
+    "assets/section-redirect.js",
+    "assets/site.css",
+    "assets/header.css",
+    "assets/footer.css",
+    "services/index.html"
+  ],
+  "syntax_whitespace": "PASS",
+  "clean_build_matches": true,
+  "clean_copy": "/var/folders/zz/145_sp9926l4ny9j3xz_1hch0000gn/T/ddcnorth-single-clean-alol9ox_",
+  "prefix_preview": "/var/folders/zz/145_sp9926l4ny9j3xz_1hch0000gn/T/ddcnorth-single-prefix-5sp5ukh5"
+}

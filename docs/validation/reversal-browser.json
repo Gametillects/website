@@ -1,0 +1,107 @@
+{
+  "layouts": [
+    {
+      "clientWidth": 1425,
+      "h1": "Built for\nwhat’s next.",
+      "headerRows": 2,
+      "heroEyebrow": false,
+      "newOverview": false,
+      "newProfiles": false,
+      "path": "/",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "clientWidth": 1425,
+      "h1": "Big questions.\nUseful answers.",
+      "headerRows": 2,
+      "heroEyebrow": false,
+      "newOverview": false,
+      "newProfiles": false,
+      "path": "/services/",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "clientWidth": 1425,
+      "h1": "Understand first.\nBuild with purpose.",
+      "headerRows": 2,
+      "heroEyebrow": false,
+      "newOverview": false,
+      "newProfiles": false,
+      "path": "/approach/",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "clientWidth": 1425,
+      "h1": "A small team.\nA shared way forward.",
+      "headerRows": 2,
+      "heroEyebrow": false,
+      "newOverview": false,
+      "newProfiles": false,
+      "path": "/about/",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "clientWidth": 375,
+      "h1": "Built for\nwhat’s next.",
+      "headerRows": 2,
+      "heroEyebrow": false,
+      "newOverview": false,
+      "newProfiles": false,
+      "path": "/",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "clientWidth": 375,
+      "h1": "Big questions.\nUseful answers.",
+      "headerRows": 2,
+      "heroEyebrow": false,
+      "newOverview": false,
+      "newProfiles": false,
+      "path": "/services/",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "clientWidth": 375,
+      "h1": "Understand first.\nBuild with purpose.",
+      "headerRows": 2,
+      "heroEyebrow": false,
+      "newOverview": false,
+      "newProfiles": false,
+      "path": "/approach/",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "clientWidth": 375,
+      "h1": "A small team.\nA shared way forward.",
+      "headerRows": 2,
+      "heroEyebrow": false,
+      "newOverview": false,
+      "newProfiles": false,
+      "path": "/about/",
+      "scrollWidth": 375,
+      "width": 390
+    }
+  ],
+  "interactions": {
+    "searchMatch": "Data & insight\nData organization, analysis, and visualization.",
+    "searchNavigation": {
+      "hash": "#service-data",
+      "menu": "false",
+      "open": [
+        "service-data"
+      ],
+      "path": "/services/"
+    },
+    "accordion": [
+      "service-planning"
+    ]
+  },
+  "errors": []
+}

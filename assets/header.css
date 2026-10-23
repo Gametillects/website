@@ -73,3 +73,18 @@
 .brand-logo [data-brand-symbol="six-dot"] circle:nth-child(5){animation-delay:.24s}
 .brand-logo [data-brand-symbol="six-dot"] circle:nth-child(6){animation-delay:.3s}
 @media(prefers-reduced-motion:reduce){.brand-logo [data-brand-symbol="six-dot"] circle{animation:none!important;opacity:1;transform:none}}
+
+/* The globe opens a native disclosure, including without JavaScript. */
+.language-switch{position:relative;flex-shrink:0;font-size:12px}
+.language-picker summary{display:flex;align-items:center;justify-content:center;gap:8px;min-width:66px;min-height:44px;cursor:pointer;list-style:none;color:var(--blue)}
+.language-picker summary::-webkit-details-marker{display:none}
+.language-picker summary svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.3}
+.language-picker summary:hover,.language-picker[open] summary{background:#e9eef3}
+.language-picker summary:focus-visible,.language-options a:focus-visible{outline:2px solid var(--blue);outline-offset:2px}
+.language-options{position:absolute;right:0;top:calc(100% + 6px);z-index:80;width:164px;padding:6px;background:var(--paper);border:1px solid var(--line);box-shadow:0 8px 20px #0b2b4a12}
+.language-options a{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:44px;padding:10px 12px;color:var(--muted)}
+.language-options a:hover{background:#e9eef3;color:var(--blue)}
+.language-options a[aria-current=page]{color:var(--blue);font-weight:600;background:#e9eef3}
+.language-options a[aria-current=page]::after{content:'✓'}
+@media(max-width:900px){.language-switch{margin-left:12px;order:2}.mobile-menu-toggle{order:3}.site-search{order:4}.site-brand .brand-logo{width:180px}}
+@media(max-width:420px){.site-brand .brand-logo{width:150px}.language-switch{margin-left:auto}.mobile-menu-toggle{padding-left:6px;gap:6px}.menu-lines{display:none}}

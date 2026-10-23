@@ -15,14 +15,19 @@ python3 -m http.server 8000 --bind 127.0.0.1 --directory _site
 
 Open <http://127.0.0.1:8000/>.
 
-The homepage introduces DDCNorth. Detailed content lives on separate pages:
+The website is a single page, with Services, Our approach and About us sections.
+Navigation jumps to the corresponding section or service panel. English is at `/`
+and the complete static French version is at `/fr/`. The globe opens a small English/Français dropdown. Its links preserve the
+current section when JavaScript is available; each language also works without it.
 
-- <http://127.0.0.1:8000/services/> — services and individual service panels.
-- <http://127.0.0.1:8000/approach/> — Discover, Develop and Deliver.
-- <http://127.0.0.1:8000/about/> — company and team.
-
-Navigation and search work from any page. Earlier homepage section links route
-to the corresponding new pages. Relative asset/link paths also support the
+Search is retained but hidden and inactive by default. Set `searchEnabled` to
+`true` in `assets/config.js` and rebuild to restore it in both languages. The
+HTML starts hidden/inert to prevent a flash before scripts load. Search copy and
+results are localized in `assets/header.js`. Keep English and French HTML in
+sync when updating content.
+Previously shared `/services/`, `/approach/` and `/about/` links redirect to the
+homepage section; these paths contain no separate content pages. Individual
+service fragments are preserved. Relative assets and links also support the
 GitHub Pages `/website/` prefix.
 
 ## Publish changes
@@ -42,7 +47,7 @@ Cloudflare project settings:
 - Custom domains: `ddcnorth.com` and `www.ddcnorth.com`
 
 The build publishes only `index.html`, `404.html`, `services/`, `approach/`,
-`about/`, `assets/`, and `licenses/` (plus `.nojekyll`).
+`about/`, `fr/`, `assets/`, and `licenses/` (plus `.nojekyll`).
 Repository documentation and configuration are excluded. No deployment token is
 stored in GitHub; Cloudflare's GitHub App handles the native build pipeline.
 
@@ -55,8 +60,10 @@ is public as authorized by its owner for hosting on GitHub Free.
 
 ## Files
 
-- `index.html`: homepage, with the original hero artwork and introduction.
-- `services/`, `approach/`, `about/`: the three content pages.
+- `index.html`: single-page site with hero, services, approach, about and a minimal footer.
+- `fr/index.html`: complete French single-page website.
+- `assets/config.js`: reversible search feature flag.
+- `services/`, `approach/`, `about/`: compatibility redirects for previously shared URLs.
 - `assets/site.css`: shared original styles and embedded fonts.
 - `assets/`: header/footer styles and shared navigation/search/accordion behavior.
 - `scripts/build.sh`: shared static build used by Cloudflare and GitHub Pages.

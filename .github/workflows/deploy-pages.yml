@@ -9,6 +9,7 @@ on:
       - services/**
       - approach/**
       - about/**
+      - fr/**
       - assets/**
       - licenses/**
       - scripts/build.sh

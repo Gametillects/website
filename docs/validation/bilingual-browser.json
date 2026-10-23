@@ -1,0 +1,188 @@
+{
+  "layouts": [
+    {
+      "client": 1425,
+      "footer": 96,
+      "lang": "fr",
+      "scroll": 1425,
+      "searchDisabled": true,
+      "searchHidden": true,
+      "width": 1440
+    },
+    {
+      "client": 390,
+      "footer": 127.359375,
+      "inert": true,
+      "lang": "fr",
+      "scroll": 390,
+      "searchHidden": true,
+      "width": 390
+    },
+    {
+      "client": 390,
+      "footer": 127.359375,
+      "lang": "en",
+      "scroll": 390,
+      "width": 390
+    },
+    {
+      "client": 320,
+      "lang": "fr",
+      "scroll": 320,
+      "width": 320
+    },
+    {
+      "client": 885,
+      "lang": "fr",
+      "scroll": 885,
+      "width": 900
+    },
+    {
+      "client": 1425,
+      "footer": 96,
+      "lang": "en",
+      "scroll": 1425,
+      "width": 1440
+    }
+  ],
+  "interactions": {
+    "frDropdown": {
+      "open": [
+        "service-data"
+      ],
+      "url": "http://localhost:8000/fr/#service-data"
+    },
+    "switchEN": {
+      "lang": "en",
+      "open": [
+        "service-data"
+      ],
+      "url": "http://localhost:8000/#service-data"
+    },
+    "frReload": {
+      "lang": "fr",
+      "url": "http://localhost:8000/fr/#top"
+    },
+    "mobileDropdown": {
+      "menu": "false",
+      "open": [
+        "service-digital"
+      ],
+      "url": "http://localhost:8000/fr/#service-digital"
+    },
+    "switchFR": {
+      "lang": "fr",
+      "open": [
+        "service-digital"
+      ],
+      "url": "http://localhost:8000/fr/#service-digital"
+    },
+    "switchFRReload": {
+      "lang": "fr",
+      "open": [
+        "service-digital"
+      ],
+      "url": "http://localhost:8000/fr/#service-digital"
+    },
+    "prefixEN": {
+      "lang": "en",
+      "open": [
+        "service-data"
+      ],
+      "url": "http://localhost:51706/website/#service-data"
+    },
+    "prefixFR": {
+      "lang": "fr",
+      "open": [
+        "service-data"
+      ],
+      "url": "http://localhost:51706/website/fr/#service-data"
+    },
+    "noJavaScript": {
+      "heading": "Pensé pourla suite.",
+      "inert": true,
+      "lang": "fr",
+      "searchHidden": true,
+      "sections": 4,
+      "title": "DDCNorth | Pensé pour la suite."
+    },
+    "mobileSearchVisible": false,
+    "disabledSearchTabOrder": {
+      "focus": "English",
+      "inert": true,
+      "searchHidden": true
+    },
+    "pointerSwitch": {
+      "lang": "fr",
+      "url": "http://localhost:8000/fr/"
+    }
+  },
+  "screenshots": [
+    "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/bilingual-fr-desktop.png",
+    "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/bilingual-fr-mobile.png",
+    "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/bilingual-fr-preview.png"
+  ],
+  "search": {
+    "fr": {
+      "noMatch": "Aucun résultat. Essayez « données », « sites web » ou « contact ».",
+      "escape": false,
+      "empty": false,
+      "result": "Données et analyse\nOrganisation, analyse et visualisation des données.",
+      "status": "1 résultat. Appuyez sur Tab pour parcourir les résultats.",
+      "resultEscape": {
+        "focus": "site-search-input",
+        "hidden": true
+      },
+      "destination": {
+        "open": [
+          "service-data"
+        ],
+        "url": "http://localhost:51706/enabled/fr/#service-data"
+      },
+      "mobile": {
+        "client": 390,
+        "inputFont": "16px",
+        "inputHeight": 48,
+        "scroll": 390,
+        "width": 390
+      },
+      "submit": {
+        "open": [
+          "service-digital"
+        ],
+        "url": "http://localhost:51706/enabled/fr/#service-digital"
+      }
+    },
+    "en": {
+      "noMatch": "No matching results. Try “data”, “websites”, or “contact”.",
+      "escape": false,
+      "empty": false,
+      "result": "Data & insight\nData organization, analysis, and visualization.",
+      "status": "1 matching result. Press Tab to explore results.",
+      "resultEscape": {
+        "focus": "site-search-input",
+        "hidden": true
+      },
+      "destination": {
+        "open": [
+          "service-data"
+        ],
+        "url": "http://localhost:51706/enabled/#service-data"
+      },
+      "mobile": {
+        "client": 390,
+        "inputFont": "16px",
+        "inputHeight": 48,
+        "scroll": 390,
+        "width": 390
+      },
+      "submit": {
+        "open": [
+          "service-digital"
+        ],
+        "url": "http://localhost:51706/enabled/#service-digital"
+      }
+    }
+  },
+  "consoleErrors": []
+}

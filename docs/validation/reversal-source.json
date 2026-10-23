@@ -1,0 +1,98 @@
+{
+  "target": "a99e240 plus approved M7 eyebrow removal",
+  "recovery_snapshot": "/var/folders/zz/145_sp9926l4ny9j3xz_1hch0000gn/T/ddcnorth-m8-before-revert-adsmguns",
+  "files": {
+    "index.html": {
+      "target_sha256": "ee1eaf559b7348ce7be95c606eab1bfdbcfdbc44196c5cb7c60a7a832936bbca",
+      "exact_match": true
+    },
+    "services/index.html": {
+      "target_sha256": "ae1b8f80c14d173ac745648dda7b70fc3c8f7e241ac09d575cf3747949d4eba5",
+      "exact_match": true
+    },
+    "approach/index.html": {
+      "target_sha256": "c6fe813eda1aaf10d0c3adc4383ea1152e374ea1df2e72eaa9ad1ea67d6bd017",
+      "exact_match": true
+    },
+    "about/index.html": {
+      "target_sha256": "b9a10c01643b50e89f3fc3abef76dace3659aef166cc935995cb66911c798126",
+      "exact_match": true
+    },
+    "assets/site.css": {
+      "target_sha256": "895b09c788632dd8e6947618bd091b9abb925923aca7eba930cd4fffb13286c8",
+      "exact_match": true
+    },
+    "assets/header.css": {
+      "target_sha256": "553b1c26885d45ac5392837e756d8117cc34ad72bc6182a8045ddc5f6187a1e1",
+      "exact_match": true
+    },
+    "assets/footer.css": {
+      "target_sha256": "d5bfb3b42154590ce4c8e75275961cce4f3068d04e54b90b830569559e5037fb",
+      "exact_match": true
+    },
+    "assets/header.js": {
+      "target_sha256": "0e0d52e1cc1bd5ded6954c766c84756e58ad1b6e9c4b86bb8c9338a3b70acfab",
+      "exact_match": true
+    },
+    "README.md": {
+      "target_sha256": "e8cc7cd84b33783dbb55844ff9a80b5d7b78b999dec555fbaf0a07c1971d7067",
+      "exact_match": true
+    }
+  },
+  "served": {
+    "index.html": {
+      "http": 200,
+      "source_build_http_match": true
+    },
+    "404.html": {
+      "http": 200,
+      "source_build_http_match": true
+    },
+    "licenses/Inter-OFL.txt": {
+      "http": 200,
+      "source_build_http_match": true
+    },
+    "licenses/SpaceMono-OFL.txt": {
+      "http": 200,
+      "source_build_http_match": true
+    },
+    "approach/index.html": {
+      "http": 200,
+      "source_build_http_match": true
+    },
+    "about/index.html": {
+      "http": 200,
+      "source_build_http_match": true
+    },
+    "assets/header.js": {
+      "http": 200,
+      "source_build_http_match": true
+    },
+    "assets/site.css": {
+      "http": 200,
+      "source_build_http_match": true
+    },
+    "assets/header.css": {
+      "http": 200,
+      "source_build_http_match": true
+    },
+    "assets/footer.css": {
+      "http": 200,
+      "source_build_http_match": true
+    },
+    "services/index.html": {
+      "http": 200,
+      "source_build_http_match": true
+    }
+  },
+  "unchanged": [
+    "scripts/build.sh",
+    ".github/workflows/deploy-pages.yml",
+    "404.html",
+    "licenses/Inter-OFL.txt",
+    "licenses/SpaceMono-OFL.txt"
+  ],
+  "prior_removals_retained": true,
+  "syntax_whitespace": "PASS",
+  "production_diff_from_HEAD": "Only M7 homepage eyebrow removal remains."
+}
