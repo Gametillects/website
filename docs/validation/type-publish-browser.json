@@ -1,0 +1,20 @@
+{
+  "english": {
+    "cards": 3,
+    "fontSize": "79.779px",
+    "headingCount": 0,
+    "open": true,
+    "periodMargin": "3.59005px",
+    "url": "https://ddcnorth.com/"
+  },
+  "french": {
+    "cards": 3,
+    "fontSize": "73.08px",
+    "headingCount": 0,
+    "open": true,
+    "periodMargin": "3.2886px",
+    "url": "https://ddcnorth.com/fr/"
+  },
+  "screenshot": "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/dropdown-live-corrected.png",
+  "cacheNote": "Initial navigation reused old CSS; ignoreCache reload verified deployed styles in both languages."
+}

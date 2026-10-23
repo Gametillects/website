@@ -1,0 +1,17 @@
+{
+  "source_commit": "c4c32db2ddfaf1ef98caacb5468e5d754f4d8bfe",
+  "checks": [
+    {
+      "name": "Cloudflare Pages",
+      "status": "completed",
+      "conclusion": "success",
+      "url": "https://dash.cloudflare.com/?to=/479e77f49d4ac5d7498529ee360f194b/pages/view/ddcnorth-website/8c11caf6-83b1-4530-ba50-78b8f45d9c2a"
+    },
+    {
+      "name": "deploy",
+      "status": "completed",
+      "conclusion": "success",
+      "url": "https://github.com/ddcnorth/website/actions/runs/39997352459/job/120564234755"
+    }
+  ]
+}

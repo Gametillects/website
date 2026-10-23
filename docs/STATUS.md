@@ -1,6 +1,6 @@
-# M15 publish dropdown/headline correction — in progress
+# M15 dropdown/headline correction — published and verified
 
-User reports old label on live site. Publishing reviewed M14 correction to existing hosts. Readiness/precommit audit pending.
+User reports old label on live site. Publishing reviewed M14 correction to existing hosts. Readiness/precommit PASS. Source c4c32db pushed normally; Cloudflare Pages and GitHub Pages report success. Fourteen public files on each host match reviewed export (documented Cloudflare transformations only). Live EN/FR dropdowns contain three cards with no heading; headline margin present. Initial final audit FAIL TYPE-LIVE-001: browser reused old CSS and recorded 0px period margin. Resolved with cache-bypassing reload: EN 3.59005px at 79.779px font, FR 3.2886px at 73.08px font (.045em). Browser evidence/screenshot replaced; final re-audit PASS in type-publish-guardian.md. FIXLIVE-001–002 VERIFIED; no open findings. Bounded documentation completion commit approved subject to final transport checks. Evidence: type-publish-primary/secondary/deployments/browser.json.
 
 # M14 dropdown/headline cleanup — verified locally
 
