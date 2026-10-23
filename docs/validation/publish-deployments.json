@@ -1,0 +1,19 @@
+{
+  "source_commit": "2555a5855a76a0f0eede307401bce2e2883835ef",
+  "checks": [
+    {
+      "name": "Cloudflare Pages",
+      "status": "completed",
+      "conclusion": "success",
+      "head_sha": "2555a5855a76a0f0eede307401bce2e2883835ef",
+      "details_url": "https://dash.cloudflare.com/?to=/479e77f49d4ac5d7498529ee360f194b/pages/view/ddcnorth-website/381fb190-93f4-4379-ba3a-7230dbe0a37d"
+    },
+    {
+      "name": "deploy",
+      "status": "completed",
+      "conclusion": "success",
+      "head_sha": "2555a5855a76a0f0eede307401bce2e2883835ef",
+      "details_url": "https://github.com/ddcnorth/website/actions/runs/39981847067/job/120510865291"
+    }
+  ]
+}

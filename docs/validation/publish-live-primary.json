@@ -1,0 +1,167 @@
+{
+  "status": "passed",
+  "base": "https://ddcnorth.com/",
+  "source_commit": "2555a5855a76a0f0eede307401bce2e2883835ef",
+  "files": [
+    {
+      "file": "index.html",
+      "url": "https://ddcnorth.com/",
+      "final_url": "https://ddcnorth.com/",
+      "status": 200,
+      "raw_sha256": "0e372896e8695bb3010cad8ab5a507a0f74a572a4024342ac5982b6154b2e1ec",
+      "compared_sha256": "d1c456e14d559307a5eac91fed23e6c93c4cd5e547b627606ffbf9b3220f44ce",
+      "transformations": {
+        "analytics_scripts": 1,
+        "email_decoder_scripts": 1,
+        "protected_hrefs_decoded": 3
+      }
+    },
+    {
+      "file": "404.html",
+      "url": "https://ddcnorth.com/404.html",
+      "final_url": "https://ddcnorth.com/404",
+      "status": 200,
+      "raw_sha256": "d940dc831d9c238cefcc1c1b1c1ca8e57899c36395b01d61c66db8dbe97c485e",
+      "compared_sha256": "655f21fdcb4f8dfe8d7310a0888b57863ea187d800e603ca5cca5756730d3ef9",
+      "transformations": {
+        "analytics_scripts": 1,
+        "email_decoder_scripts": 0,
+        "protected_hrefs_decoded": 0
+      }
+    },
+    {
+      "file": "licenses/Inter-OFL.txt",
+      "url": "https://ddcnorth.com/licenses/Inter-OFL.txt",
+      "final_url": "https://ddcnorth.com/licenses/Inter-OFL.txt",
+      "status": 200,
+      "raw_sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+      "compared_sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a",
+      "transformations": {}
+    },
+    {
+      "file": "licenses/SpaceMono-OFL.txt",
+      "url": "https://ddcnorth.com/licenses/SpaceMono-OFL.txt",
+      "final_url": "https://ddcnorth.com/licenses/SpaceMono-OFL.txt",
+      "status": 200,
+      "raw_sha256": "6758f6915b482dd45950b2a974c75d95692464fd0e5441418e87b2f92f2eea27",
+      "compared_sha256": "6758f6915b482dd45950b2a974c75d95692464fd0e5441418e87b2f92f2eea27",
+      "transformations": {}
+    },
+    {
+      "file": "approach/index.html",
+      "url": "https://ddcnorth.com/approach/",
+      "final_url": "https://ddcnorth.com/approach/",
+      "status": 200,
+      "raw_sha256": "285266c71b171fc6137a713d544f9718b1c0df4f480dbc259277744f6e45f94b",
+      "compared_sha256": "fdb707bb91a855b31afd2cf359eeb4243c269d3435d9ce9c0cca5b2bf15d91f2",
+      "transformations": {
+        "analytics_scripts": 1,
+        "email_decoder_scripts": 0,
+        "protected_hrefs_decoded": 0
+      }
+    },
+    {
+      "file": "about/index.html",
+      "url": "https://ddcnorth.com/about/",
+      "final_url": "https://ddcnorth.com/about/",
+      "status": 200,
+      "raw_sha256": "fb418f4bcf38175c4d054272703574436da5ea24babca9edcbcecc629dd44aeb",
+      "compared_sha256": "89f2a9454dc5fe82999273b5f32ae23f5b88f9d933788ac02432f846fcdcb515",
+      "transformations": {
+        "analytics_scripts": 1,
+        "email_decoder_scripts": 0,
+        "protected_hrefs_decoded": 0
+      }
+    },
+    {
+      "file": "fr/index.html",
+      "url": "https://ddcnorth.com/fr/",
+      "final_url": "https://ddcnorth.com/fr/",
+      "status": 200,
+      "raw_sha256": "ebcc128265792b6faae0e380d55640fa057d5edae7b192f9712a1786b4e2fe97",
+      "compared_sha256": "d47fd9f6696a191342bde2db07c80fdef6be6dcde0c8a7538ab1a939523eaad6",
+      "transformations": {
+        "analytics_scripts": 1,
+        "email_decoder_scripts": 1,
+        "protected_hrefs_decoded": 3
+      }
+    },
+    {
+      "file": "assets/header.js",
+      "url": "https://ddcnorth.com/assets/header.js",
+      "final_url": "https://ddcnorth.com/assets/header.js",
+      "status": 200,
+      "raw_sha256": "3d5ae7c69243204c55a62e0f20427c7055c03d724179c46a548303ab9e8453e9",
+      "compared_sha256": "3d5ae7c69243204c55a62e0f20427c7055c03d724179c46a548303ab9e8453e9",
+      "transformations": {}
+    },
+    {
+      "file": "assets/config.js",
+      "url": "https://ddcnorth.com/assets/config.js",
+      "final_url": "https://ddcnorth.com/assets/config.js",
+      "status": 200,
+      "raw_sha256": "5956f25d0bdafd794f1a14da4c836c3564780131862e6947ec8b4c6554f7b35f",
+      "compared_sha256": "5956f25d0bdafd794f1a14da4c836c3564780131862e6947ec8b4c6554f7b35f",
+      "transformations": {}
+    },
+    {
+      "file": "assets/section-redirect.js",
+      "url": "https://ddcnorth.com/assets/section-redirect.js",
+      "final_url": "https://ddcnorth.com/assets/section-redirect.js",
+      "status": 200,
+      "raw_sha256": "67f848eb7db17126a6daf82907c98f99574704a1d8adc2422f59897a1151ea07",
+      "compared_sha256": "67f848eb7db17126a6daf82907c98f99574704a1d8adc2422f59897a1151ea07",
+      "transformations": {}
+    },
+    {
+      "file": "assets/site.css",
+      "url": "https://ddcnorth.com/assets/site.css",
+      "final_url": "https://ddcnorth.com/assets/site.css",
+      "status": 200,
+      "raw_sha256": "f6cfc8cd92ca3d473c973ff605cf0bbe9f9562b322da84b51f1e85859ca77622",
+      "compared_sha256": "f6cfc8cd92ca3d473c973ff605cf0bbe9f9562b322da84b51f1e85859ca77622",
+      "transformations": {}
+    },
+    {
+      "file": "assets/header.css",
+      "url": "https://ddcnorth.com/assets/header.css",
+      "final_url": "https://ddcnorth.com/assets/header.css",
+      "status": 200,
+      "raw_sha256": "733ef3d955a6363c334f2400cbdcdee108faa1c99445f877cbcd0a8a2489097e",
+      "compared_sha256": "733ef3d955a6363c334f2400cbdcdee108faa1c99445f877cbcd0a8a2489097e",
+      "transformations": {}
+    },
+    {
+      "file": "assets/footer.css",
+      "url": "https://ddcnorth.com/assets/footer.css",
+      "final_url": "https://ddcnorth.com/assets/footer.css",
+      "status": 200,
+      "raw_sha256": "40401fcb185d535e75cb271020da6b8964122f58529cd35fdc766b39044cfaca",
+      "compared_sha256": "40401fcb185d535e75cb271020da6b8964122f58529cd35fdc766b39044cfaca",
+      "transformations": {}
+    },
+    {
+      "file": "services/index.html",
+      "url": "https://ddcnorth.com/services/",
+      "final_url": "https://ddcnorth.com/services/",
+      "status": 200,
+      "raw_sha256": "44cf0d550689b05631e64fab54aaa80b500663f4c4d01710cfda436a26517e56",
+      "compared_sha256": "560e0b485f47b4e6e3931af4cb2f5c918488db5c4523b7c26589b85480a4bd38",
+      "transformations": {
+        "analytics_scripts": 1,
+        "email_decoder_scripts": 0,
+        "protected_hrefs_decoded": 0
+      }
+    }
+  ],
+  "missing_paths": [
+    {
+      "route": "docs/STATUS.md",
+      "status": 404
+    },
+    {
+      "route": "not-a-page-release-verification/",
+      "status": 404
+    }
+  ]
+}

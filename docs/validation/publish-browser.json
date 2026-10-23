@@ -1,0 +1,58 @@
+{
+  "layouts": [
+    {
+      "client": 1218,
+      "contact": "mailto:Fryderyk@ddcnorth.com",
+      "footerText": "© 2026 DDCNorth\n\nContact us",
+      "lang": "en",
+      "scroll": 1218,
+      "searchHidden": true,
+      "url": "https://ddcnorth.com/",
+      "width": 1218
+    },
+    {
+      "client": 390,
+      "footerText": "© 2026 DDCNorth\n\nNous joindre",
+      "lang": "fr",
+      "scroll": 390,
+      "searchHidden": true,
+      "url": "https://ddcnorth.com/fr/#service-data",
+      "width": 390
+    }
+  ],
+  "interactions": {
+    "primarySwitch": {
+      "lang": "fr",
+      "open": [
+        "service-data"
+      ],
+      "url": "https://ddcnorth.com/fr/#service-data"
+    },
+    "primaryReload": {
+      "lang": "fr",
+      "open": [
+        "service-data"
+      ],
+      "url": "https://ddcnorth.com/fr/#service-data"
+    },
+    "mobileAbout": {
+      "menuExpanded": "false",
+      "url": "https://ddcnorth.com/fr/#about"
+    },
+    "secondaryLegacy": {
+      "open": [
+        "service-digital"
+      ],
+      "url": "https://ddcnorth.github.io/website/#service-digital"
+    },
+    "secondarySwitch": {
+      "lang": "fr",
+      "open": [
+        "service-digital"
+      ],
+      "url": "https://ddcnorth.github.io/website/fr/#service-digital"
+    }
+  },
+  "consoleErrors": [],
+  "screenshot": "/Users/amiretminanrad/.codex/visualizations/2026/10/21/01a1603b-b1dc-7230-9837-262360e19679/live-published-globe.png"
+}

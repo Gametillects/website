@@ -1,6 +1,8 @@
-# M13 publication — preflight in progress
+# M13 publication — deployed product verified; final synchronization pending
 
-User authorized publishing the current approved bilingual single-page website. Preserve existing primary Cloudflare and secondary GitHub Pages hosting. Starting local/remote main: `a99e2400e7c5de69169254dcabbd77aba8325136`. No additional design changes. Readiness/precommit audit pending.
+User authorized publishing the current approved bilingual single-page website. Preserve existing primary Cloudflare and secondary GitHub Pages hosting. Starting local/remote main: `a99e2400e7c5de69169254dcabbd77aba8325136`. No additional design changes. Readiness/source-precommit PASS. Source commit `2555a5855a76a0f0eede307401bce2e2883835ef` pushed normally to main. Cloudflare Pages and GitHub Pages both report success for that source. Both hosts serve fourteen content files matching the clean export (primary uses only documented Cloudflare email/analytics normalization; secondary exact). Documentation and missing routes return 404. Live desktop/mobile tests pass for English/French globe switching, preserved service fragments/reload, legacy route, hidden search, removed Back-to-top and no overflow/console errors.
+
+Evidence: `publish-source.json`, `publish-precommit-guardian.md`, `publish-deployments.json`, `publish-live-primary.json`, `publish-live-secondary.json`, `publish-browser.json`. Live preview: <https://ddcnorth.com/>. Final independent deployed-product/evidence-precommit audit PASS (`publish-guardian.md`). LIVE-001–002 are VERIFIED. LIVE-003 evidence-precommit gate passed; documentation-only commit/push and final read-only transport acknowledgment remain. No product findings.
 
 # Historical — M12 globe dropdown and footer update verified
 
